@@ -1,0 +1,23 @@
+{
+  "source": "stake.ac",
+  "updated_at": "2026-11-08T18:50:57.472372+00:00",
+  "matches": [
+    {
+      "match_id": "STAKE_101",
+      "competition": "Premier League",
+      "home_team": "Arsenal",
+      "away_team": "Chelsea",
+      "kickoff_str": "Tomorrow 16:30 UTC",
+      "stake_odds": {
+        "home": 1.72,
+        "draw": 3.8,
+        "away": 5.0
+      },
+      "pinnacle_odds": {
+        "home": 1.63,
+        "draw": 4.1,
+        "away": 5.8
+      }
+    }
+  ]
+}

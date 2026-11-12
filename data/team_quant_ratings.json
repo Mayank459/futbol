@@ -1,0 +1,773 @@
+{
+  "generated_at": "2026-11-09T02:21:41.949702",
+  "teams": {
+    "Augsburg": {
+      "league": "Bundesliga",
+      "xg_attack": -0.134,
+      "xg_defense": 0.554,
+      "kalman_attack": -0.03,
+      "kalman_defense": 0.362,
+      "form_momentum": 0.033
+    },
+    "Bayern Munich": {
+      "league": "Bundesliga",
+      "xg_attack": 0.341,
+      "xg_defense": 0.314,
+      "kalman_attack": 0.432,
+      "kalman_defense": 0.208,
+      "form_momentum": -0.196
+    },
+    "Bochum": {
+      "league": "Bundesliga",
+      "xg_attack": 0.025,
+      "xg_defense": 0.623,
+      "kalman_attack": -0.001,
+      "kalman_defense": 0.499,
+      "form_momentum": -0.121
+    },
+    "Darmstadt": {
+      "league": "Bundesliga",
+      "xg_attack": -0.325,
+      "xg_defense": 0.683,
+      "kalman_attack": -0.327,
+      "kalman_defense": 0.516,
+      "form_momentum": -0.351
+    },
+    "Dortmund": {
+      "league": "Bundesliga",
+      "xg_attack": 0.161,
+      "xg_defense": 0.386,
+      "kalman_attack": 0.378,
+      "kalman_defense": 0.099,
+      "form_momentum": -0.035
+    },
+    "Ein Frankfurt": {
+      "league": "Bundesliga",
+      "xg_attack": -0.086,
+      "xg_defense": 0.366,
+      "kalman_attack": 0.18,
+      "kalman_defense": 0.042,
+      "form_momentum": 0.006
+    },
+    "FC Koln": {
+      "league": "Bundesliga",
+      "xg_attack": -0.065,
+      "xg_defense": 0.512,
+      "kalman_attack": 0.193,
+      "kalman_defense": 0.114,
+      "form_momentum": 0.164
+    },
+    "Freiburg": {
+      "league": "Bundesliga",
+      "xg_attack": -0.171,
+      "xg_defense": 0.518,
+      "kalman_attack": -0.153,
+      "kalman_defense": 0.354,
+      "form_momentum": -0.246
+    },
+    "Heidenheim": {
+      "league": "Bundesliga",
+      "xg_attack": -0.262,
+      "xg_defense": 0.514,
+      "kalman_attack": 0.065,
+      "kalman_defense": 0.323,
+      "form_momentum": 0.104
+    },
+    "Hoffenheim": {
+      "league": "Bundesliga",
+      "xg_attack": 0.076,
+      "xg_defense": 0.733,
+      "kalman_attack": 0.28,
+      "kalman_defense": 0.379,
+      "form_momentum": 0.195
+    },
+    "Leverkusen": {
+      "league": "Bundesliga",
+      "xg_attack": 0.359,
+      "xg_defense": -0.028,
+      "kalman_attack": 0.642,
+      "kalman_defense": -0.572,
+      "form_momentum": 0.021
+    },
+    "M'gladbach": {
+      "league": "Bundesliga",
+      "xg_attack": -0.025,
+      "xg_defense": 0.668,
+      "kalman_attack": 0.244,
+      "kalman_defense": 0.416,
+      "form_momentum": 0.096
+    },
+    "Mainz": {
+      "league": "Bundesliga",
+      "xg_attack": -0.042,
+      "xg_defense": 0.404,
+      "kalman_attack": 0.279,
+      "kalman_defense": 0.107,
+      "form_momentum": 0.131
+    },
+    "RB Leipzig": {
+      "league": "Bundesliga",
+      "xg_attack": 0.245,
+      "xg_defense": 0.233,
+      "kalman_attack": 0.41,
+      "kalman_defense": 0.071,
+      "form_momentum": -0.099
+    },
+    "Stuttgart": {
+      "league": "Bundesliga",
+      "xg_attack": 0.261,
+      "xg_defense": 0.226,
+      "kalman_attack": 0.518,
+      "kalman_defense": -0.104,
+      "form_momentum": 0.123
+    },
+    "Union Berlin": {
+      "league": "Bundesliga",
+      "xg_attack": -0.135,
+      "xg_defense": 0.498,
+      "kalman_attack": 0.153,
+      "kalman_defense": 0.353,
+      "form_momentum": 0.095
+    },
+    "Werder Bremen": {
+      "league": "Bundesliga",
+      "xg_attack": -0.121,
+      "xg_defense": 0.476,
+      "kalman_attack": 0.096,
+      "kalman_defense": 0.345,
+      "form_momentum": 0.005
+    },
+    "Wolfsburg": {
+      "league": "Bundesliga",
+      "xg_attack": -0.102,
+      "xg_defense": 0.315,
+      "kalman_attack": 0.048,
+      "kalman_defense": -0.102,
+      "form_momentum": -0.068
+    },
+    "Arsenal": {
+      "league": "EPL",
+      "xg_attack": 0.194,
+      "xg_defense": -0.27,
+      "kalman_attack": 0.419,
+      "kalman_defense": -0.58,
+      "form_momentum": 0.005
+    },
+    "Aston Villa": {
+      "league": "EPL",
+      "xg_attack": -0.048,
+      "xg_defense": 0.474,
+      "kalman_attack": -0.028,
+      "kalman_defense": 0.358,
+      "form_momentum": -0.133
+    },
+    "Bournemouth": {
+      "league": "EPL",
+      "xg_attack": 0.017,
+      "xg_defense": 0.497,
+      "kalman_attack": 0.267,
+      "kalman_defense": 0.196,
+      "form_momentum": 0.049
+    },
+    "Brentford": {
+      "league": "EPL",
+      "xg_attack": -0.093,
+      "xg_defense": 0.488,
+      "kalman_attack": 0.148,
+      "kalman_defense": 0.162,
+      "form_momentum": -0.06
+    },
+    "Brighton": {
+      "league": "EPL",
+      "xg_attack": 0.039,
+      "xg_defense": 0.367,
+      "kalman_attack": 0.067,
+      "kalman_defense": 0.076,
+      "form_momentum": -0.19
+    },
+    "Burnley": {
+      "league": "EPL",
+      "xg_attack": -0.186,
+      "xg_defense": 0.761,
+      "kalman_attack": -0.006,
+      "kalman_defense": 0.617,
+      "form_momentum": 0.006
+    },
+    "Chelsea": {
+      "league": "EPL",
+      "xg_attack": 0.181,
+      "xg_defense": 0.505,
+      "kalman_attack": 0.456,
+      "kalman_defense": 0.207,
+      "form_momentum": 0.027
+    },
+    "Crystal Palace": {
+      "league": "EPL",
+      "xg_attack": -0.08,
+      "xg_defense": 0.275,
+      "kalman_attack": 0.169,
+      "kalman_defense": -0.118,
+      "form_momentum": 0.061
+    },
+    "Everton": {
+      "league": "EPL",
+      "xg_attack": -0.173,
+      "xg_defense": 0.423,
+      "kalman_attack": -0.055,
+      "kalman_defense": 0.132,
+      "form_momentum": 0.058
+    },
+    "Fulham": {
+      "league": "EPL",
+      "xg_attack": -0.013,
+      "xg_defense": 0.498,
+      "kalman_attack": 0.159,
+      "kalman_defense": 0.277,
+      "form_momentum": -0.124
+    },
+    "Liverpool": {
+      "league": "EPL",
+      "xg_attack": 0.451,
+      "xg_defense": 0.32,
+      "kalman_attack": 0.716,
+      "kalman_defense": 0.241,
+      "form_momentum": 0.104
+    },
+    "Luton": {
+      "league": "EPL",
+      "xg_attack": -0.2,
+      "xg_defense": 0.698,
+      "kalman_attack": -0.062,
+      "kalman_defense": 0.484,
+      "form_momentum": -0.119
+    },
+    "Man City": {
+      "league": "EPL",
+      "xg_attack": 0.391,
+      "xg_defense": -0.048,
+      "kalman_attack": 0.666,
+      "kalman_defense": -0.462,
+      "form_momentum": 0.025
+    },
+    "Man United": {
+      "league": "EPL",
+      "xg_attack": 0.077,
+      "xg_defense": 0.648,
+      "kalman_attack": 0.29,
+      "kalman_defense": 0.453,
+      "form_momentum": 0.057
+    },
+    "Newcastle": {
+      "league": "EPL",
+      "xg_attack": 0.138,
+      "xg_defense": 0.581,
+      "kalman_attack": 0.433,
+      "kalman_defense": 0.335,
+      "form_momentum": 0.132
+    },
+    "Nott'm Forest": {
+      "league": "EPL",
+      "xg_attack": -0.172,
+      "xg_defense": 0.378,
+      "kalman_attack": 0.114,
+      "kalman_defense": 0.163,
+      "form_momentum": -0.036
+    },
+    "Sheffield United": {
+      "league": "EPL",
+      "xg_attack": -0.295,
+      "xg_defense": 0.803,
+      "kalman_attack": -0.197,
+      "kalman_defense": 0.594,
+      "form_momentum": -0.168
+    },
+    "Tottenham": {
+      "league": "EPL",
+      "xg_attack": 0.111,
+      "xg_defense": 0.382,
+      "kalman_attack": 0.377,
+      "kalman_defense": -0.035,
+      "form_momentum": 0.122
+    },
+    "West Ham": {
+      "league": "EPL",
+      "xg_attack": -0.176,
+      "xg_defense": 0.773,
+      "kalman_attack": 0.041,
+      "kalman_defense": 0.482,
+      "form_momentum": 0.025
+    },
+    "Wolves": {
+      "league": "EPL",
+      "xg_attack": -0.164,
+      "xg_defense": 0.643,
+      "kalman_attack": 0.035,
+      "kalman_defense": 0.485,
+      "form_momentum": -0.024
+    },
+    "Alaves": {
+      "league": "LaLiga",
+      "xg_attack": -0.039,
+      "xg_defense": 0.243,
+      "kalman_attack": 0.126,
+      "kalman_defense": 0.004,
+      "form_momentum": 0.143
+    },
+    "Almeria": {
+      "league": "LaLiga",
+      "xg_attack": 0.073,
+      "xg_defense": 0.548,
+      "kalman_attack": 0.26,
+      "kalman_defense": 0.481,
+      "form_momentum": 0.11
+    },
+    "Ath Bilbao": {
+      "league": "LaLiga",
+      "xg_attack": -0.023,
+      "xg_defense": 0.112,
+      "kalman_attack": -0.144,
+      "kalman_defense": -0.017,
+      "form_momentum": -0.08
+    },
+    "Ath Madrid": {
+      "league": "LaLiga",
+      "xg_attack": 0.189,
+      "xg_defense": 0.197,
+      "kalman_attack": 0.285,
+      "kalman_defense": 0.066,
+      "form_momentum": -0.156
+    },
+    "Barcelona": {
+      "league": "LaLiga",
+      "xg_attack": 0.339,
+      "xg_defense": 0.202,
+      "kalman_attack": 0.523,
+      "kalman_defense": 0.089,
+      "form_momentum": -0.021
+    },
+    "Betis": {
+      "league": "LaLiga",
+      "xg_attack": 0.024,
+      "xg_defense": 0.285,
+      "kalman_attack": 0.29,
+      "kalman_defense": 0.118,
+      "form_momentum": 0.131
+    },
+    "Cadiz": {
+      "league": "LaLiga",
+      "xg_attack": -0.183,
+      "xg_defense": 0.354,
+      "kalman_attack": 0.047,
+      "kalman_defense": 0.125,
+      "form_momentum": 0.033
+    },
+    "Celta": {
+      "league": "LaLiga",
+      "xg_attack": -0.015,
+      "xg_defense": 0.305,
+      "kalman_attack": -0.044,
+      "kalman_defense": 0.06,
+      "form_momentum": 0.081
+    },
+    "Getafe": {
+      "league": "LaLiga",
+      "xg_attack": 0.014,
+      "xg_defense": 0.353,
+      "kalman_attack": 0.244,
+      "kalman_defense": 0.115,
+      "form_momentum": 0.047
+    },
+    "Girona": {
+      "league": "LaLiga",
+      "xg_attack": 0.167,
+      "xg_defense": 0.36,
+      "kalman_attack": 0.37,
+      "kalman_defense": 0.253,
+      "form_momentum": -0.008
+    },
+    "Granada": {
+      "league": "LaLiga",
+      "xg_attack": -0.243,
+      "xg_defense": 0.502,
+      "kalman_attack": -0.303,
+      "kalman_defense": 0.457,
+      "form_momentum": -0.025
+    },
+    "Las Palmas": {
+      "league": "LaLiga",
+      "xg_attack": -0.234,
+      "xg_defense": 0.238,
+      "kalman_attack": -0.148,
+      "kalman_defense": 0.036,
+      "form_momentum": 0.111
+    },
+    "Mallorca": {
+      "league": "LaLiga",
+      "xg_attack": -0.116,
+      "xg_defense": 0.239,
+      "kalman_attack": 0.062,
+      "kalman_defense": 0.069,
+      "form_momentum": 0.11
+    },
+    "Osasuna": {
+      "league": "LaLiga",
+      "xg_attack": -0.194,
+      "xg_defense": 0.25,
+      "kalman_attack": 0.063,
+      "kalman_defense": 0.178,
+      "form_momentum": 0.151
+    },
+    "Real Madrid": {
+      "league": "LaLiga",
+      "xg_attack": 0.391,
+      "xg_defense": 0.086,
+      "kalman_attack": 0.619,
+      "kalman_defense": -0.015,
+      "form_momentum": -0.029
+    },
+    "Sevilla": {
+      "league": "LaLiga",
+      "xg_attack": -0.016,
+      "xg_defense": 0.432,
+      "kalman_attack": 0.112,
+      "kalman_defense": 0.436,
+      "form_momentum": 0.114
+    },
+    "Sociedad": {
+      "league": "LaLiga",
+      "xg_attack": -0.047,
+      "xg_defense": 0.094,
+      "kalman_attack": 0.064,
+      "kalman_defense": -0.109,
+      "form_momentum": -0.06
+    },
+    "Valencia": {
+      "league": "LaLiga",
+      "xg_attack": -0.191,
+      "xg_defense": 0.302,
+      "kalman_attack": -0.017,
+      "kalman_defense": 0.185,
+      "form_momentum": 0.012
+    },
+    "Vallecano": {
+      "league": "LaLiga",
+      "xg_attack": 0.01,
+      "xg_defense": 0.158,
+      "kalman_attack": 0.121,
+      "kalman_defense": -0.189,
+      "form_momentum": 0.164
+    },
+    "Villarreal": {
+      "league": "LaLiga",
+      "xg_attack": 0.096,
+      "xg_defense": 0.554,
+      "kalman_attack": 0.271,
+      "kalman_defense": 0.423,
+      "form_momentum": -0.021
+    },
+    "Brest": {
+      "league": "Ligue1",
+      "xg_attack": 0.099,
+      "xg_defense": 0.271,
+      "kalman_attack": 0.213,
+      "kalman_defense": -0.065,
+      "form_momentum": 0.004
+    },
+    "Clermont": {
+      "league": "Ligue1",
+      "xg_attack": -0.159,
+      "xg_defense": 0.72,
+      "kalman_attack": -0.062,
+      "kalman_defense": 0.364,
+      "form_momentum": -0.052
+    },
+    "Le Havre": {
+      "league": "Ligue1",
+      "xg_attack": -0.168,
+      "xg_defense": 0.458,
+      "kalman_attack": 0.044,
+      "kalman_defense": 0.136,
+      "form_momentum": 0.219
+    },
+    "Lens": {
+      "league": "Ligue1",
+      "xg_attack": 0.144,
+      "xg_defense": 0.355,
+      "kalman_attack": 0.329,
+      "kalman_defense": 0.103,
+      "form_momentum": 0.055
+    },
+    "Lille": {
+      "league": "Ligue1",
+      "xg_attack": 0.062,
+      "xg_defense": 0.257,
+      "kalman_attack": 0.183,
+      "kalman_defense": 0.037,
+      "form_momentum": -0.04
+    },
+    "Lorient": {
+      "league": "Ligue1",
+      "xg_attack": -0.029,
+      "xg_defense": 0.692,
+      "kalman_attack": 0.237,
+      "kalman_defense": 0.409,
+      "form_momentum": 0.138
+    },
+    "Lyon": {
+      "league": "Ligue1",
+      "xg_attack": 0.129,
+      "xg_defense": 0.526,
+      "kalman_attack": 0.328,
+      "kalman_defense": 0.277,
+      "form_momentum": -0.019
+    },
+    "Marseille": {
+      "league": "Ligue1",
+      "xg_attack": 0.041,
+      "xg_defense": 0.303,
+      "kalman_attack": 0.25,
+      "kalman_defense": 0.118,
+      "form_momentum": 0.032
+    },
+    "Metz": {
+      "league": "Ligue1",
+      "xg_attack": -0.271,
+      "xg_defense": 0.597,
+      "kalman_attack": -0.119,
+      "kalman_defense": 0.36,
+      "form_momentum": -0.087
+    },
+    "Monaco": {
+      "league": "Ligue1",
+      "xg_attack": 0.285,
+      "xg_defense": 0.419,
+      "kalman_attack": 0.519,
+      "kalman_defense": 0.055,
+      "form_momentum": 0.064
+    },
+    "Montpellier": {
+      "league": "Ligue1",
+      "xg_attack": 0.066,
+      "xg_defense": 0.62,
+      "kalman_attack": 0.088,
+      "kalman_defense": 0.441,
+      "form_momentum": -0.122
+    },
+    "Nantes": {
+      "league": "Ligue1",
+      "xg_attack": -0.138,
+      "xg_defense": 0.373,
+      "kalman_attack": 0.026,
+      "kalman_defense": -0.076,
+      "form_momentum": -0.063
+    },
+    "Nice": {
+      "league": "Ligue1",
+      "xg_attack": 0.031,
+      "xg_defense": 0.155,
+      "kalman_attack": 0.278,
+      "kalman_defense": 0.011,
+      "form_momentum": -0.011
+    },
+    "Paris SG": {
+      "league": "Ligue1",
+      "xg_attack": 0.224,
+      "xg_defense": 0.45,
+      "kalman_attack": 0.387,
+      "kalman_defense": 0.191,
+      "form_momentum": -0.001
+    },
+    "Reims": {
+      "league": "Ligue1",
+      "xg_attack": -0.124,
+      "xg_defense": 0.362,
+      "kalman_attack": -0.001,
+      "kalman_defense": 0.248,
+      "form_momentum": -0.076
+    },
+    "Rennes": {
+      "league": "Ligue1",
+      "xg_attack": 0.104,
+      "xg_defense": 0.418,
+      "kalman_attack": 0.269,
+      "kalman_defense": 0.186,
+      "form_momentum": 0.141
+    },
+    "Strasbourg": {
+      "league": "Ligue1",
+      "xg_attack": -0.187,
+      "xg_defense": 0.287,
+      "kalman_attack": -0.045,
+      "kalman_defense": -0.003,
+      "form_momentum": -0.073
+    },
+    "Toulouse": {
+      "league": "Ligue1",
+      "xg_attack": -0.108,
+      "xg_defense": 0.363,
+      "kalman_attack": 0.005,
+      "kalman_defense": 0.133,
+      "form_momentum": 0.005
+    },
+    "Atalanta": {
+      "league": "SerieA",
+      "xg_attack": 0.261,
+      "xg_defense": 0.276,
+      "kalman_attack": 0.417,
+      "kalman_defense": 0.07,
+      "form_momentum": 0.088
+    },
+    "Bologna": {
+      "league": "SerieA",
+      "xg_attack": 0.025,
+      "xg_defense": 0.124,
+      "kalman_attack": 0.087,
+      "kalman_defense": -0.115,
+      "form_momentum": -0.011
+    },
+    "Cagliari": {
+      "league": "SerieA",
+      "xg_attack": -0.087,
+      "xg_defense": 0.328,
+      "kalman_attack": 0.133,
+      "kalman_defense": -0.007,
+      "form_momentum": 0.176
+    },
+    "Empoli": {
+      "league": "SerieA",
+      "xg_attack": -0.27,
+      "xg_defense": 0.438,
+      "kalman_attack": -0.404,
+      "kalman_defense": 0.119,
+      "form_momentum": 0.128
+    },
+    "Fiorentina": {
+      "league": "SerieA",
+      "xg_attack": 0.154,
+      "xg_defense": 0.209,
+      "kalman_attack": 0.371,
+      "kalman_defense": -0.082,
+      "form_momentum": 0.026
+    },
+    "Frosinone": {
+      "league": "SerieA",
+      "xg_attack": 0.084,
+      "xg_defense": 0.433,
+      "kalman_attack": 0.356,
+      "kalman_defense": 0.238,
+      "form_momentum": 0.111
+    },
+    "Genoa": {
+      "league": "SerieA",
+      "xg_attack": -0.185,
+      "xg_defense": 0.231,
+      "kalman_attack": -0.055,
+      "kalman_defense": -0.047,
+      "form_momentum": -0.008
+    },
+    "Inter": {
+      "league": "SerieA",
+      "xg_attack": 0.301,
+      "xg_defense": 0.123,
+      "kalman_attack": 0.459,
+      "kalman_defense": 0.008,
+      "form_momentum": 0.161
+    },
+    "Juventus": {
+      "league": "SerieA",
+      "xg_attack": 0.017,
+      "xg_defense": 0.123,
+      "kalman_attack": 0.202,
+      "kalman_defense": 0.003,
+      "form_momentum": 0.028
+    },
+    "Lazio": {
+      "league": "SerieA",
+      "xg_attack": -0.075,
+      "xg_defense": 0.29,
+      "kalman_attack": 0.105,
+      "kalman_defense": 0.244,
+      "form_momentum": 0.076
+    },
+    "Lecce": {
+      "league": "SerieA",
+      "xg_attack": -0.005,
+      "xg_defense": 0.421,
+      "kalman_attack": -0.07,
+      "kalman_defense": 0.128,
+      "form_momentum": -0.358
+    },
+    "Milan": {
+      "league": "SerieA",
+      "xg_attack": 0.342,
+      "xg_defense": 0.428,
+      "kalman_attack": 0.528,
+      "kalman_defense": 0.381,
+      "form_momentum": 0.096
+    },
+    "Monza": {
+      "league": "SerieA",
+      "xg_attack": -0.184,
+      "xg_defense": 0.509,
+      "kalman_attack": -0.181,
+      "kalman_defense": 0.262,
+      "form_momentum": 0.078
+    },
+    "Napoli": {
+      "league": "SerieA",
+      "xg_attack": 0.28,
+      "xg_defense": 0.142,
+      "kalman_attack": 0.403,
+      "kalman_defense": -0.169,
+      "form_momentum": 0.052
+    },
+    "Roma": {
+      "league": "SerieA",
+      "xg_attack": 0.044,
+      "xg_defense": 0.383,
+      "kalman_attack": 0.315,
+      "kalman_defense": 0.41,
+      "form_momentum": 0.04
+    },
+    "Salernitana": {
+      "league": "SerieA",
+      "xg_attack": -0.245,
+      "xg_defense": 0.573,
+      "kalman_attack": -0.2,
+      "kalman_defense": 0.41,
+      "form_momentum": 0.127
+    },
+    "Sassuolo": {
+      "league": "SerieA",
+      "xg_attack": -0.101,
+      "xg_defense": 0.47,
+      "kalman_attack": -0.224,
+      "kalman_defense": 0.154,
+      "form_momentum": -0.199
+    },
+    "Torino": {
+      "league": "SerieA",
+      "xg_attack": -0.21,
+      "xg_defense": 0.216,
+      "kalman_attack": -0.184,
+      "kalman_defense": -0.032,
+      "form_momentum": -0.114
+    },
+    "Udinese": {
+      "league": "SerieA",
+      "xg_attack": -0.153,
+      "xg_defense": 0.336,
+      "kalman_attack": -0.07,
+      "kalman_defense": 0.074,
+      "form_momentum": 0.045
+    },
+    "Verona": {
+      "league": "SerieA",
+      "xg_attack": 0.008,
+      "xg_defense": 0.371,
+      "kalman_attack": 0.208,
+      "kalman_defense": 0.15,
+      "form_momentum": 0.199
+    }
+  }
+}

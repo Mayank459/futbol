@@ -1,0 +1,239 @@
+{
+  "cached_at": "2026-11-12T16:02:19.026902+00:00",
+  "live_matches": [
+    {
+      "match_id": "APIF_1545869",
+      "competition": "Africa Cup of Nations - Qualification Group Stage - 3",
+      "competition_logo": "https://media.api-sports.io/football/leagues/36.png",
+      "venue": "Stade des Martyrs",
+      "home_team": "Congo DR",
+      "home_logo": "https://media.api-sports.io/football/teams/1508.png",
+      "away_team": "Sierra Leone",
+      "away_logo": "https://media.api-sports.io/football/teams/1499.png",
+      "current_minute": "1'",
+      "home_score": 0,
+      "away_score": 0,
+      "stake_odds": {
+        "home": 2.3,
+        "draw": 2.79,
+        "away": 2.91
+      },
+      "pinnacle_odds": {
+        "home": 2.25,
+        "draw": 2.73,
+        "away": 2.85
+      },
+      "status": "LIVE",
+      "momentum": "Live Match on Pitch: 1'",
+      "stake_mirror": "stake.ac"
+    },
+    {
+      "match_id": "APIF_1545876",
+      "competition": "Africa Cup of Nations - Qualification Group Stage - 3",
+      "competition_logo": "https://media.api-sports.io/football/leagues/36.png",
+      "venue": "Stade d'Honneur",
+      "home_team": "Madagascar",
+      "home_logo": "https://media.api-sports.io/football/teams/1490.png",
+      "away_team": "Guinea-Bissau",
+      "away_logo": "https://media.api-sports.io/football/teams/1513.png",
+      "current_minute": "2'",
+      "home_score": 0,
+      "away_score": 0,
+      "stake_odds": {
+        "home": 2.31,
+        "draw": 2.78,
+        "away": 2.91
+      },
+      "pinnacle_odds": {
+        "home": 2.26,
+        "draw": 2.72,
+        "away": 2.85
+      },
+      "status": "LIVE",
+      "momentum": "Live Match on Pitch: 2'",
+      "stake_mirror": "stake.ac"
+    },
+    {
+      "match_id": "APIF_1649541",
+      "competition": "Friendlies Friendly International",
+      "competition_logo": "https://media.api-sports.io/football/leagues/10.png",
+      "venue": "Main Stadium",
+      "home_team": "France U20",
+      "home_logo": "https://media.api-sports.io/football/teams/10287.png",
+      "away_team": "Denmark U20",
+      "away_logo": "https://media.api-sports.io/football/teams/22429.png",
+      "current_minute": "4'",
+      "home_score": 0,
+      "away_score": 0,
+      "stake_odds": {
+        "home": 2.32,
+        "draw": 2.76,
+        "away": 2.92
+      },
+      "pinnacle_odds": {
+        "home": 2.27,
+        "draw": 2.7,
+        "away": 2.86
+      },
+      "status": "LIVE",
+      "momentum": "Live Match on Pitch: 4'",
+      "stake_mirror": "stake.ac"
+    },
+    {
+      "match_id": "APIF_1545873",
+      "competition": "Africa Cup of Nations - Qualification Group Stage - 3",
+      "competition_logo": "https://media.api-sports.io/football/leagues/36.png",
+      "venue": "Sekondi-Takoradi Stadium",
+      "home_team": "Ghana",
+      "home_logo": "https://media.api-sports.io/football/teams/1504.png",
+      "away_team": "Somalia",
+      "away_logo": "https://media.api-sports.io/football/teams/8050.png",
+      "current_minute": "45'",
+      "home_score": 1,
+      "away_score": 0,
+      "stake_odds": {
+        "home": 1.23,
+        "draw": 6.0,
+        "away": 13.0
+      },
+      "pinnacle_odds": {
+        "home": 1.21,
+        "draw": 5.88,
+        "away": 12.74
+      },
+      "status": "LIVE",
+      "momentum": "Live Match on Pitch: 45'",
+      "stake_mirror": "stake.ac"
+    },
+    {
+      "match_id": "APIF_1559455",
+      "competition": "UEFA U17 Championship - Qualification Group Stage - 1",
+      "competition_logo": "https://media.api-sports.io/football/leagues/886.png",
+      "venue": "Main Stadium",
+      "home_team": "Bulgaria U17",
+      "home_logo": "https://media.api-sports.io/football/teams/17944.png",
+      "away_team": "Serbia U17",
+      "away_logo": "https://media.api-sports.io/football/teams/17977.png",
+      "current_minute": "45'",
+      "home_score": 0,
+      "away_score": 2,
+      "stake_odds": {
+        "home": 13.0,
+        "draw": 6.0,
+        "away": 1.23
+      },
+      "pinnacle_odds": {
+        "home": 12.74,
+        "draw": 5.88,
+        "away": 1.21
+      },
+      "status": "LIVE",
+      "momentum": "Live Match on Pitch: 45'",
+      "stake_mirror": "stake.ac"
+    },
+    {
+      "match_id": "APIF_1559466",
+      "competition": "UEFA U17 Championship - Qualification Group Stage - 1",
+      "competition_logo": "https://media.api-sports.io/football/leagues/886.png",
+      "venue": "Main Stadium",
+      "home_team": "Portugal U17",
+      "home_logo": "https://media.api-sports.io/football/teams/17971.png",
+      "away_team": "Andorra U17",
+      "away_logo": "https://media.api-sports.io/football/teams/17937.png",
+      "current_minute": "45'",
+      "home_score": 1,
+      "away_score": 0,
+      "stake_odds": {
+        "home": 1.23,
+        "draw": 6.0,
+        "away": 13.0
+      },
+      "pinnacle_odds": {
+        "home": 1.21,
+        "draw": 5.88,
+        "away": 12.74
+      },
+      "status": "LIVE",
+      "momentum": "Live Match on Pitch: 45'",
+      "stake_mirror": "stake.ac"
+    },
+    {
+      "match_id": "APIF_1635808",
+      "competition": "UEFA U19 Championship - Qualification Group Stage",
+      "competition_logo": "https://media.api-sports.io/football/leagues/893.png",
+      "venue": "Main Stadium",
+      "home_team": "Portugal U19",
+      "home_logo": "https://media.api-sports.io/football/teams/10343.png",
+      "away_team": "Lithuania U19",
+      "away_logo": "https://media.api-sports.io/football/teams/10370.png",
+      "current_minute": "45'",
+      "home_score": 0,
+      "away_score": 0,
+      "stake_odds": {
+        "home": 2.5,
+        "draw": 2.3,
+        "away": 3.15
+      },
+      "pinnacle_odds": {
+        "home": 2.45,
+        "draw": 2.25,
+        "away": 3.09
+      },
+      "status": "LIVE",
+      "momentum": "Live Match on Pitch: 45'",
+      "stake_mirror": "stake.ac"
+    },
+    {
+      "match_id": "APIF_1644387",
+      "competition": "CAF U23 Cup of Nations Semi-finals",
+      "competition_logo": "https://media.api-sports.io/football/leagues/1015.png",
+      "venue": "Main Stadium",
+      "home_team": "Angola U23",
+      "home_logo": "https://media.api-sports.io/football/teams/20539.png",
+      "away_team": "Congo U23",
+      "away_logo": "https://media.api-sports.io/football/teams/20543.png",
+      "current_minute": "45'",
+      "home_score": 0,
+      "away_score": 0,
+      "stake_odds": {
+        "home": 2.5,
+        "draw": 2.3,
+        "away": 3.15
+      },
+      "pinnacle_odds": {
+        "home": 2.45,
+        "draw": 2.25,
+        "away": 3.09
+      },
+      "status": "LIVE",
+      "momentum": "Live Match on Pitch: 45'",
+      "stake_mirror": "stake.ac"
+    },
+    {
+      "match_id": "APIF_1647358",
+      "competition": "Friendlies Friendly International",
+      "competition_logo": "https://media.api-sports.io/football/leagues/10.png",
+      "venue": "Pakhtakor Markaziy Stadium",
+      "home_team": "Uzbekistan",
+      "home_logo": "https://media.api-sports.io/football/teams/1568.png",
+      "away_team": "Russia",
+      "away_logo": "https://media.api-sports.io/football/teams/4.png",
+      "current_minute": "45'",
+      "home_score": 1,
+      "away_score": 0,
+      "stake_odds": {
+        "home": 1.23,
+        "draw": 6.0,
+        "away": 13.0
+      },
+      "pinnacle_odds": {
+        "home": 1.21,
+        "draw": 5.88,
+        "away": 12.74
+      },
+      "status": "LIVE",
+      "momentum": "Live Match on Pitch: 45'",
+      "stake_mirror": "stake.ac"
+    }
+  ]
+}

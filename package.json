@@ -1,0 +1,13 @@
+{
+  "name": "futbol-quant-terminal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stake.ac Autonomous Football Value-Betting & Quant Intelligence Terminal",
+  "scripts": {
+    "dev": "npm run dev --prefix web",
+    "build": "npm run build --prefix web",
+    "start": "npm run start --prefix web",
+    "export-data": "python scripts/export_web_data.py"
+  }
+}
+

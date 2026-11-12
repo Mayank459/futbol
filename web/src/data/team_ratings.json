@@ -1,0 +1,966 @@
+{
+  "generated_at": "2026-11-09T02:21:41.949702",
+  "total": 96,
+  "teams": [
+    {
+      "league": "EPL",
+      "xg_attack": 0.451,
+      "xg_defense": 0.32,
+      "kalman_attack": 0.716,
+      "kalman_defense": 0.241,
+      "form_momentum": 0.104,
+      "team_name": "Liverpool",
+      "logo_url": "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": 0.391,
+      "xg_defense": -0.048,
+      "kalman_attack": 0.666,
+      "kalman_defense": -0.462,
+      "form_momentum": 0.025,
+      "team_name": "Man City",
+      "logo_url": "https://ui-avatars.com/api/?name=Man+City&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": 0.391,
+      "xg_defense": 0.086,
+      "kalman_attack": 0.619,
+      "kalman_defense": -0.015,
+      "form_momentum": -0.029,
+      "team_name": "Real Madrid",
+      "logo_url": "https://media.api-sports.io/football/teams/541.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": 0.359,
+      "xg_defense": -0.028,
+      "kalman_attack": 0.642,
+      "kalman_defense": -0.572,
+      "form_momentum": 0.021,
+      "team_name": "Leverkusen",
+      "logo_url": "https://media.api-sports.io/football/teams/168.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.342,
+      "xg_defense": 0.428,
+      "kalman_attack": 0.528,
+      "kalman_defense": 0.381,
+      "form_momentum": 0.096,
+      "team_name": "Milan",
+      "logo_url": "https://media.api-sports.io/football/teams/489.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": 0.341,
+      "xg_defense": 0.314,
+      "kalman_attack": 0.432,
+      "kalman_defense": 0.208,
+      "form_momentum": -0.196,
+      "team_name": "Bayern Munich",
+      "logo_url": "https://media.api-sports.io/football/teams/157.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": 0.339,
+      "xg_defense": 0.202,
+      "kalman_attack": 0.523,
+      "kalman_defense": 0.089,
+      "form_momentum": -0.021,
+      "team_name": "Barcelona",
+      "logo_url": "https://media.api-sports.io/football/teams/529.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.301,
+      "xg_defense": 0.123,
+      "kalman_attack": 0.459,
+      "kalman_defense": 0.008,
+      "form_momentum": 0.161,
+      "team_name": "Inter",
+      "logo_url": "https://media.api-sports.io/football/teams/505.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.285,
+      "xg_defense": 0.419,
+      "kalman_attack": 0.519,
+      "kalman_defense": 0.055,
+      "form_momentum": 0.064,
+      "team_name": "Monaco",
+      "logo_url": "https://ui-avatars.com/api/?name=Monaco&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.28,
+      "xg_defense": 0.142,
+      "kalman_attack": 0.403,
+      "kalman_defense": -0.169,
+      "form_momentum": 0.052,
+      "team_name": "Napoli",
+      "logo_url": "https://media.api-sports.io/football/teams/492.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": 0.261,
+      "xg_defense": 0.226,
+      "kalman_attack": 0.518,
+      "kalman_defense": -0.104,
+      "form_momentum": 0.123,
+      "team_name": "Stuttgart",
+      "logo_url": "https://media.api-sports.io/football/teams/172.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.261,
+      "xg_defense": 0.276,
+      "kalman_attack": 0.417,
+      "kalman_defense": 0.07,
+      "form_momentum": 0.088,
+      "team_name": "Atalanta",
+      "logo_url": "https://media.api-sports.io/football/teams/499.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": 0.245,
+      "xg_defense": 0.233,
+      "kalman_attack": 0.41,
+      "kalman_defense": 0.071,
+      "form_momentum": -0.099,
+      "team_name": "RB Leipzig",
+      "logo_url": "https://media.api-sports.io/football/teams/173.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.224,
+      "xg_defense": 0.45,
+      "kalman_attack": 0.387,
+      "kalman_defense": 0.191,
+      "form_momentum": -0.001,
+      "team_name": "Paris SG",
+      "logo_url": "https://ui-avatars.com/api/?name=Paris+SG&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": 0.194,
+      "xg_defense": -0.27,
+      "kalman_attack": 0.419,
+      "kalman_defense": -0.58,
+      "form_momentum": 0.005,
+      "team_name": "Arsenal",
+      "logo_url": "https://media.api-sports.io/football/teams/42.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": 0.189,
+      "xg_defense": 0.197,
+      "kalman_attack": 0.285,
+      "kalman_defense": 0.066,
+      "form_momentum": -0.156,
+      "team_name": "Ath Madrid",
+      "logo_url": "https://ui-avatars.com/api/?name=Ath+Madrid&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": 0.181,
+      "xg_defense": 0.505,
+      "kalman_attack": 0.456,
+      "kalman_defense": 0.207,
+      "form_momentum": 0.027,
+      "team_name": "Chelsea",
+      "logo_url": "https://media.api-sports.io/football/teams/49.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": 0.167,
+      "xg_defense": 0.36,
+      "kalman_attack": 0.37,
+      "kalman_defense": 0.253,
+      "form_momentum": -0.008,
+      "team_name": "Girona",
+      "logo_url": "https://media.api-sports.io/football/teams/547.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": 0.161,
+      "xg_defense": 0.386,
+      "kalman_attack": 0.378,
+      "kalman_defense": 0.099,
+      "form_momentum": -0.035,
+      "team_name": "Dortmund",
+      "logo_url": "https://media.api-sports.io/football/teams/165.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.154,
+      "xg_defense": 0.209,
+      "kalman_attack": 0.371,
+      "kalman_defense": -0.082,
+      "form_momentum": 0.026,
+      "team_name": "Fiorentina",
+      "logo_url": "https://media.api-sports.io/football/teams/502.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.144,
+      "xg_defense": 0.355,
+      "kalman_attack": 0.329,
+      "kalman_defense": 0.103,
+      "form_momentum": 0.055,
+      "team_name": "Lens",
+      "logo_url": "https://ui-avatars.com/api/?name=Lens&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": 0.138,
+      "xg_defense": 0.581,
+      "kalman_attack": 0.433,
+      "kalman_defense": 0.335,
+      "form_momentum": 0.132,
+      "team_name": "Newcastle",
+      "logo_url": "https://media.api-sports.io/football/teams/34.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.129,
+      "xg_defense": 0.526,
+      "kalman_attack": 0.328,
+      "kalman_defense": 0.277,
+      "form_momentum": -0.019,
+      "team_name": "Lyon",
+      "logo_url": "https://ui-avatars.com/api/?name=Lyon&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": 0.111,
+      "xg_defense": 0.382,
+      "kalman_attack": 0.377,
+      "kalman_defense": -0.035,
+      "form_momentum": 0.122,
+      "team_name": "Tottenham",
+      "logo_url": "https://media.api-sports.io/football/teams/47.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.104,
+      "xg_defense": 0.418,
+      "kalman_attack": 0.269,
+      "kalman_defense": 0.186,
+      "form_momentum": 0.141,
+      "team_name": "Rennes",
+      "logo_url": "https://ui-avatars.com/api/?name=Rennes&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.099,
+      "xg_defense": 0.271,
+      "kalman_attack": 0.213,
+      "kalman_defense": -0.065,
+      "form_momentum": 0.004,
+      "team_name": "Brest",
+      "logo_url": "https://ui-avatars.com/api/?name=Brest&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": 0.096,
+      "xg_defense": 0.554,
+      "kalman_attack": 0.271,
+      "kalman_defense": 0.423,
+      "form_momentum": -0.021,
+      "team_name": "Villarreal",
+      "logo_url": "https://media.api-sports.io/football/teams/533.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.084,
+      "xg_defense": 0.433,
+      "kalman_attack": 0.356,
+      "kalman_defense": 0.238,
+      "form_momentum": 0.111,
+      "team_name": "Frosinone",
+      "logo_url": "https://media.api-sports.io/football/teams/512.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": 0.077,
+      "xg_defense": 0.648,
+      "kalman_attack": 0.29,
+      "kalman_defense": 0.453,
+      "form_momentum": 0.057,
+      "team_name": "Man United",
+      "logo_url": "https://ui-avatars.com/api/?name=Man+United&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": 0.076,
+      "xg_defense": 0.733,
+      "kalman_attack": 0.28,
+      "kalman_defense": 0.379,
+      "form_momentum": 0.195,
+      "team_name": "Hoffenheim",
+      "logo_url": "https://media.api-sports.io/football/teams/167.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": 0.073,
+      "xg_defense": 0.548,
+      "kalman_attack": 0.26,
+      "kalman_defense": 0.481,
+      "form_momentum": 0.11,
+      "team_name": "Almeria",
+      "logo_url": "https://media.api-sports.io/football/teams/723.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.066,
+      "xg_defense": 0.62,
+      "kalman_attack": 0.088,
+      "kalman_defense": 0.441,
+      "form_momentum": -0.122,
+      "team_name": "Montpellier",
+      "logo_url": "https://ui-avatars.com/api/?name=Montpellier&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.062,
+      "xg_defense": 0.257,
+      "kalman_attack": 0.183,
+      "kalman_defense": 0.037,
+      "form_momentum": -0.04,
+      "team_name": "Lille",
+      "logo_url": "https://ui-avatars.com/api/?name=Lille&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.044,
+      "xg_defense": 0.383,
+      "kalman_attack": 0.315,
+      "kalman_defense": 0.41,
+      "form_momentum": 0.04,
+      "team_name": "Roma",
+      "logo_url": "https://media.api-sports.io/football/teams/497.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.041,
+      "xg_defense": 0.303,
+      "kalman_attack": 0.25,
+      "kalman_defense": 0.118,
+      "form_momentum": 0.032,
+      "team_name": "Marseille",
+      "logo_url": "https://ui-avatars.com/api/?name=Marseille&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": 0.039,
+      "xg_defense": 0.367,
+      "kalman_attack": 0.067,
+      "kalman_defense": 0.076,
+      "form_momentum": -0.19,
+      "team_name": "Brighton",
+      "logo_url": "https://media.api-sports.io/football/teams/51.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": 0.031,
+      "xg_defense": 0.155,
+      "kalman_attack": 0.278,
+      "kalman_defense": 0.011,
+      "form_momentum": -0.011,
+      "team_name": "Nice",
+      "logo_url": "https://ui-avatars.com/api/?name=Nice&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": 0.025,
+      "xg_defense": 0.623,
+      "kalman_attack": -0.001,
+      "kalman_defense": 0.499,
+      "form_momentum": -0.121,
+      "team_name": "Bochum",
+      "logo_url": "https://media.api-sports.io/football/teams/176.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.025,
+      "xg_defense": 0.124,
+      "kalman_attack": 0.087,
+      "kalman_defense": -0.115,
+      "form_momentum": -0.011,
+      "team_name": "Bologna",
+      "logo_url": "https://media.api-sports.io/football/teams/500.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": 0.024,
+      "xg_defense": 0.285,
+      "kalman_attack": 0.29,
+      "kalman_defense": 0.118,
+      "form_momentum": 0.131,
+      "team_name": "Betis",
+      "logo_url": "https://media.api-sports.io/football/teams/543.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": 0.017,
+      "xg_defense": 0.497,
+      "kalman_attack": 0.267,
+      "kalman_defense": 0.196,
+      "form_momentum": 0.049,
+      "team_name": "Bournemouth",
+      "logo_url": "https://media.api-sports.io/football/teams/35.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.017,
+      "xg_defense": 0.123,
+      "kalman_attack": 0.202,
+      "kalman_defense": 0.003,
+      "form_momentum": 0.028,
+      "team_name": "Juventus",
+      "logo_url": "https://media.api-sports.io/football/teams/496.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": 0.014,
+      "xg_defense": 0.353,
+      "kalman_attack": 0.244,
+      "kalman_defense": 0.115,
+      "form_momentum": 0.047,
+      "team_name": "Getafe",
+      "logo_url": "https://media.api-sports.io/football/teams/546.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": 0.01,
+      "xg_defense": 0.158,
+      "kalman_attack": 0.121,
+      "kalman_defense": -0.189,
+      "form_momentum": 0.164,
+      "team_name": "Vallecano",
+      "logo_url": "https://media.api-sports.io/football/teams/728.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": 0.008,
+      "xg_defense": 0.371,
+      "kalman_attack": 0.208,
+      "kalman_defense": 0.15,
+      "form_momentum": 0.199,
+      "team_name": "Verona",
+      "logo_url": "https://media.api-sports.io/football/teams/504.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.005,
+      "xg_defense": 0.421,
+      "kalman_attack": -0.07,
+      "kalman_defense": 0.128,
+      "form_momentum": -0.358,
+      "team_name": "Lecce",
+      "logo_url": "https://media.api-sports.io/football/teams/867.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.013,
+      "xg_defense": 0.498,
+      "kalman_attack": 0.159,
+      "kalman_defense": 0.277,
+      "form_momentum": -0.124,
+      "team_name": "Fulham",
+      "logo_url": "https://media.api-sports.io/football/teams/36.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.015,
+      "xg_defense": 0.305,
+      "kalman_attack": -0.044,
+      "kalman_defense": 0.06,
+      "form_momentum": 0.081,
+      "team_name": "Celta",
+      "logo_url": "https://media.api-sports.io/football/teams/538.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.016,
+      "xg_defense": 0.432,
+      "kalman_attack": 0.112,
+      "kalman_defense": 0.436,
+      "form_momentum": 0.114,
+      "team_name": "Sevilla",
+      "logo_url": "https://media.api-sports.io/football/teams/536.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.023,
+      "xg_defense": 0.112,
+      "kalman_attack": -0.144,
+      "kalman_defense": -0.017,
+      "form_momentum": -0.08,
+      "team_name": "Ath Bilbao",
+      "logo_url": "https://ui-avatars.com/api/?name=Ath+Bilbao&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.025,
+      "xg_defense": 0.668,
+      "kalman_attack": 0.244,
+      "kalman_defense": 0.416,
+      "form_momentum": 0.096,
+      "team_name": "M'gladbach",
+      "logo_url": "https://ui-avatars.com/api/?name=M'gladbach&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": -0.029,
+      "xg_defense": 0.692,
+      "kalman_attack": 0.237,
+      "kalman_defense": 0.409,
+      "form_momentum": 0.138,
+      "team_name": "Lorient",
+      "logo_url": "https://ui-avatars.com/api/?name=Lorient&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.039,
+      "xg_defense": 0.243,
+      "kalman_attack": 0.126,
+      "kalman_defense": 0.004,
+      "form_momentum": 0.143,
+      "team_name": "Alaves",
+      "logo_url": "https://media.api-sports.io/football/teams/542.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.042,
+      "xg_defense": 0.404,
+      "kalman_attack": 0.279,
+      "kalman_defense": 0.107,
+      "form_momentum": 0.131,
+      "team_name": "Mainz",
+      "logo_url": "https://media.api-sports.io/football/teams/164.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.047,
+      "xg_defense": 0.094,
+      "kalman_attack": 0.064,
+      "kalman_defense": -0.109,
+      "form_momentum": -0.06,
+      "team_name": "Sociedad",
+      "logo_url": "https://media.api-sports.io/football/teams/548.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.048,
+      "xg_defense": 0.474,
+      "kalman_attack": -0.028,
+      "kalman_defense": 0.358,
+      "form_momentum": -0.133,
+      "team_name": "Aston Villa",
+      "logo_url": "https://media.api-sports.io/football/teams/66.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.065,
+      "xg_defense": 0.512,
+      "kalman_attack": 0.193,
+      "kalman_defense": 0.114,
+      "form_momentum": 0.164,
+      "team_name": "FC Koln",
+      "logo_url": "https://ui-avatars.com/api/?name=FC+Koln&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.075,
+      "xg_defense": 0.29,
+      "kalman_attack": 0.105,
+      "kalman_defense": 0.244,
+      "form_momentum": 0.076,
+      "team_name": "Lazio",
+      "logo_url": "https://media.api-sports.io/football/teams/487.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.08,
+      "xg_defense": 0.275,
+      "kalman_attack": 0.169,
+      "kalman_defense": -0.118,
+      "form_momentum": 0.061,
+      "team_name": "Crystal Palace",
+      "logo_url": "https://media.api-sports.io/football/teams/52.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.086,
+      "xg_defense": 0.366,
+      "kalman_attack": 0.18,
+      "kalman_defense": 0.042,
+      "form_momentum": 0.006,
+      "team_name": "Ein Frankfurt",
+      "logo_url": "https://ui-avatars.com/api/?name=Ein+Frankfurt&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.087,
+      "xg_defense": 0.328,
+      "kalman_attack": 0.133,
+      "kalman_defense": -0.007,
+      "form_momentum": 0.176,
+      "team_name": "Cagliari",
+      "logo_url": "https://media.api-sports.io/football/teams/490.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.093,
+      "xg_defense": 0.488,
+      "kalman_attack": 0.148,
+      "kalman_defense": 0.162,
+      "form_momentum": -0.06,
+      "team_name": "Brentford",
+      "logo_url": "https://media.api-sports.io/football/teams/55.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.101,
+      "xg_defense": 0.47,
+      "kalman_attack": -0.224,
+      "kalman_defense": 0.154,
+      "form_momentum": -0.199,
+      "team_name": "Sassuolo",
+      "logo_url": "https://media.api-sports.io/football/teams/488.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.102,
+      "xg_defense": 0.315,
+      "kalman_attack": 0.048,
+      "kalman_defense": -0.102,
+      "form_momentum": -0.068,
+      "team_name": "Wolfsburg",
+      "logo_url": "https://media.api-sports.io/football/teams/161.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": -0.108,
+      "xg_defense": 0.363,
+      "kalman_attack": 0.005,
+      "kalman_defense": 0.133,
+      "form_momentum": 0.005,
+      "team_name": "Toulouse",
+      "logo_url": "https://ui-avatars.com/api/?name=Toulouse&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.116,
+      "xg_defense": 0.239,
+      "kalman_attack": 0.062,
+      "kalman_defense": 0.069,
+      "form_momentum": 0.11,
+      "team_name": "Mallorca",
+      "logo_url": "https://media.api-sports.io/football/teams/798.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.121,
+      "xg_defense": 0.476,
+      "kalman_attack": 0.096,
+      "kalman_defense": 0.345,
+      "form_momentum": 0.005,
+      "team_name": "Werder Bremen",
+      "logo_url": "https://media.api-sports.io/football/teams/162.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": -0.124,
+      "xg_defense": 0.362,
+      "kalman_attack": -0.001,
+      "kalman_defense": 0.248,
+      "form_momentum": -0.076,
+      "team_name": "Reims",
+      "logo_url": "https://ui-avatars.com/api/?name=Reims&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.134,
+      "xg_defense": 0.554,
+      "kalman_attack": -0.03,
+      "kalman_defense": 0.362,
+      "form_momentum": 0.033,
+      "team_name": "Augsburg",
+      "logo_url": "https://media.api-sports.io/football/teams/170.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.135,
+      "xg_defense": 0.498,
+      "kalman_attack": 0.153,
+      "kalman_defense": 0.353,
+      "form_momentum": 0.095,
+      "team_name": "Union Berlin",
+      "logo_url": "https://media.api-sports.io/football/teams/182.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": -0.138,
+      "xg_defense": 0.373,
+      "kalman_attack": 0.026,
+      "kalman_defense": -0.076,
+      "form_momentum": -0.063,
+      "team_name": "Nantes",
+      "logo_url": "https://ui-avatars.com/api/?name=Nantes&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.153,
+      "xg_defense": 0.336,
+      "kalman_attack": -0.07,
+      "kalman_defense": 0.074,
+      "form_momentum": 0.045,
+      "team_name": "Udinese",
+      "logo_url": "https://media.api-sports.io/football/teams/494.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": -0.159,
+      "xg_defense": 0.72,
+      "kalman_attack": -0.062,
+      "kalman_defense": 0.364,
+      "form_momentum": -0.052,
+      "team_name": "Clermont",
+      "logo_url": "https://ui-avatars.com/api/?name=Clermont&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.164,
+      "xg_defense": 0.643,
+      "kalman_attack": 0.035,
+      "kalman_defense": 0.485,
+      "form_momentum": -0.024,
+      "team_name": "Wolves",
+      "logo_url": "https://media.api-sports.io/football/teams/39.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": -0.168,
+      "xg_defense": 0.458,
+      "kalman_attack": 0.044,
+      "kalman_defense": 0.136,
+      "form_momentum": 0.219,
+      "team_name": "Le Havre",
+      "logo_url": "https://ui-avatars.com/api/?name=Le+Havre&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.171,
+      "xg_defense": 0.518,
+      "kalman_attack": -0.153,
+      "kalman_defense": 0.354,
+      "form_momentum": -0.246,
+      "team_name": "Freiburg",
+      "logo_url": "https://media.api-sports.io/football/teams/160.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.172,
+      "xg_defense": 0.378,
+      "kalman_attack": 0.114,
+      "kalman_defense": 0.163,
+      "form_momentum": -0.036,
+      "team_name": "Nott'm Forest",
+      "logo_url": "https://ui-avatars.com/api/?name=Nott'm+Forest&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.173,
+      "xg_defense": 0.423,
+      "kalman_attack": -0.055,
+      "kalman_defense": 0.132,
+      "form_momentum": 0.058,
+      "team_name": "Everton",
+      "logo_url": "https://media.api-sports.io/football/teams/45.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.176,
+      "xg_defense": 0.773,
+      "kalman_attack": 0.041,
+      "kalman_defense": 0.482,
+      "form_momentum": 0.025,
+      "team_name": "West Ham",
+      "logo_url": "https://media.api-sports.io/football/teams/48.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.183,
+      "xg_defense": 0.354,
+      "kalman_attack": 0.047,
+      "kalman_defense": 0.125,
+      "form_momentum": 0.033,
+      "team_name": "Cadiz",
+      "logo_url": "https://media.api-sports.io/football/teams/724.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.184,
+      "xg_defense": 0.509,
+      "kalman_attack": -0.181,
+      "kalman_defense": 0.262,
+      "form_momentum": 0.078,
+      "team_name": "Monza",
+      "logo_url": "https://media.api-sports.io/football/teams/1579.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.185,
+      "xg_defense": 0.231,
+      "kalman_attack": -0.055,
+      "kalman_defense": -0.047,
+      "form_momentum": -0.008,
+      "team_name": "Genoa",
+      "logo_url": "https://media.api-sports.io/football/teams/495.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.186,
+      "xg_defense": 0.761,
+      "kalman_attack": -0.006,
+      "kalman_defense": 0.617,
+      "form_momentum": 0.006,
+      "team_name": "Burnley",
+      "logo_url": "https://media.api-sports.io/football/teams/44.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": -0.187,
+      "xg_defense": 0.287,
+      "kalman_attack": -0.045,
+      "kalman_defense": -0.003,
+      "form_momentum": -0.073,
+      "team_name": "Strasbourg",
+      "logo_url": "https://ui-avatars.com/api/?name=Strasbourg&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.191,
+      "xg_defense": 0.302,
+      "kalman_attack": -0.017,
+      "kalman_defense": 0.185,
+      "form_momentum": 0.012,
+      "team_name": "Valencia",
+      "logo_url": "https://media.api-sports.io/football/teams/532.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.194,
+      "xg_defense": 0.25,
+      "kalman_attack": 0.063,
+      "kalman_defense": 0.178,
+      "form_momentum": 0.151,
+      "team_name": "Osasuna",
+      "logo_url": "https://media.api-sports.io/football/teams/727.png"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.2,
+      "xg_defense": 0.698,
+      "kalman_attack": -0.062,
+      "kalman_defense": 0.484,
+      "form_momentum": -0.119,
+      "team_name": "Luton",
+      "logo_url": "https://media.api-sports.io/football/teams/1359.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.21,
+      "xg_defense": 0.216,
+      "kalman_attack": -0.184,
+      "kalman_defense": -0.032,
+      "form_momentum": -0.114,
+      "team_name": "Torino",
+      "logo_url": "https://media.api-sports.io/football/teams/503.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.234,
+      "xg_defense": 0.238,
+      "kalman_attack": -0.148,
+      "kalman_defense": 0.036,
+      "form_momentum": 0.111,
+      "team_name": "Las Palmas",
+      "logo_url": "https://media.api-sports.io/football/teams/534.png"
+    },
+    {
+      "league": "LaLiga",
+      "xg_attack": -0.243,
+      "xg_defense": 0.502,
+      "kalman_attack": -0.303,
+      "kalman_defense": 0.457,
+      "form_momentum": -0.025,
+      "team_name": "Granada",
+      "logo_url": "https://media.api-sports.io/football/teams/715.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.245,
+      "xg_defense": 0.573,
+      "kalman_attack": -0.2,
+      "kalman_defense": 0.41,
+      "form_momentum": 0.127,
+      "team_name": "Salernitana",
+      "logo_url": "https://media.api-sports.io/football/teams/514.png"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.262,
+      "xg_defense": 0.514,
+      "kalman_attack": 0.065,
+      "kalman_defense": 0.323,
+      "form_momentum": 0.104,
+      "team_name": "Heidenheim",
+      "logo_url": "https://media.api-sports.io/football/teams/180.png"
+    },
+    {
+      "league": "SerieA",
+      "xg_attack": -0.27,
+      "xg_defense": 0.438,
+      "kalman_attack": -0.404,
+      "kalman_defense": 0.119,
+      "form_momentum": 0.128,
+      "team_name": "Empoli",
+      "logo_url": "https://media.api-sports.io/football/teams/511.png"
+    },
+    {
+      "league": "Ligue1",
+      "xg_attack": -0.271,
+      "xg_defense": 0.597,
+      "kalman_attack": -0.119,
+      "kalman_defense": 0.36,
+      "form_momentum": -0.087,
+      "team_name": "Metz",
+      "logo_url": "https://ui-avatars.com/api/?name=Metz&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "EPL",
+      "xg_attack": -0.295,
+      "xg_defense": 0.803,
+      "kalman_attack": -0.197,
+      "kalman_defense": 0.594,
+      "form_momentum": -0.168,
+      "team_name": "Sheffield United",
+      "logo_url": "https://ui-avatars.com/api/?name=Sheffield+United&background=1e293b&color=38bdf8&bold=true&size=128"
+    },
+    {
+      "league": "Bundesliga",
+      "xg_attack": -0.325,
+      "xg_defense": 0.683,
+      "kalman_attack": -0.327,
+      "kalman_defense": 0.516,
+      "form_momentum": -0.351,
+      "team_name": "Darmstadt",
+      "logo_url": "https://media.api-sports.io/football/teams/181.png"
+    }
+  ]
+}

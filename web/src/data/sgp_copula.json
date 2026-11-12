@@ -1,0 +1,2630 @@
+{
+  "generated_at": "2026-11-12T21:33:23.601944",
+  "sgps": [
+    {
+      "match_id": "c25477408b57267248b491fa5eab2572",
+      "match_name": "Armenia vs Cyprus",
+      "competition": "UEFA Nations League",
+      "home_team": "Armenia",
+      "away_team": "Cyprus",
+      "home_logo": "https://flagcdn.com/w80/am.png",
+      "away_logo": "https://flagcdn.com/w80/cy.png",
+      "kickoff_str": "12 Nov 17:00 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Armenia dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Armenia Win",
+          "marginal_probability": 0.303,
+          "individual_odds": 3.3
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.236,
+      "naive_independent_prob": 0.234,
+      "correlation_boost_pct": 0.8,
+      "true_fair_odds": 4.23,
+      "stake_offered_odds": 4.36,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.8,
+      "net_profit": 16.8
+    },
+    {
+      "match_id": "c25477408b57267248b491fa5eab2572",
+      "match_name": "Armenia vs Cyprus",
+      "competition": "UEFA Nations League",
+      "home_team": "Armenia",
+      "away_team": "Cyprus",
+      "home_logo": "https://flagcdn.com/w80/am.png",
+      "away_logo": "https://flagcdn.com/w80/cy.png",
+      "kickoff_str": "12 Nov 17:00 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.567,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.434,
+      "naive_independent_prob": 0.294,
+      "correlation_boost_pct": 47.6,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "c25477408b57267248b491fa5eab2572",
+      "match_name": "Armenia vs Cyprus",
+      "competition": "UEFA Nations League",
+      "home_team": "Armenia",
+      "away_team": "Cyprus",
+      "home_logo": "https://flagcdn.com/w80/am.png",
+      "away_logo": "https://flagcdn.com/w80/cy.png",
+      "kickoff_str": "12 Nov 17:00 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Armenia grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Armenia Win",
+          "marginal_probability": 0.303,
+          "individual_odds": 3.3
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.212,
+      "naive_independent_prob": 0.213,
+      "correlation_boost_pct": -0.4,
+      "true_fair_odds": 4.71,
+      "stake_offered_odds": 4.8,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 24.0,
+      "net_profit": 19.0
+    },
+    {
+      "match_id": "d598d5e914a905ef70b01fd1b444aecb",
+      "match_name": "Turkey vs Belgium",
+      "competition": "UEFA Nations League",
+      "home_team": "Turkey",
+      "away_team": "Belgium",
+      "home_logo": "https://flagcdn.com/w80/tr.png",
+      "away_logo": "https://flagcdn.com/w80/be.png",
+      "kickoff_str": "12 Nov 17:00 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Turkey dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Turkey Win",
+          "marginal_probability": 0.317,
+          "individual_odds": 3.15
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.249,
+      "naive_independent_prob": 0.245,
+      "correlation_boost_pct": 1.3,
+      "true_fair_odds": 4.02,
+      "stake_offered_odds": 4.14,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 20.7,
+      "net_profit": 15.7
+    },
+    {
+      "match_id": "d598d5e914a905ef70b01fd1b444aecb",
+      "match_name": "Turkey vs Belgium",
+      "competition": "UEFA Nations League",
+      "home_team": "Turkey",
+      "away_team": "Belgium",
+      "home_logo": "https://flagcdn.com/w80/tr.png",
+      "away_logo": "https://flagcdn.com/w80/be.png",
+      "kickoff_str": "12 Nov 17:00 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.569,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.436,
+      "naive_independent_prob": 0.295,
+      "correlation_boost_pct": 47.6,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "d598d5e914a905ef70b01fd1b444aecb",
+      "match_name": "Turkey vs Belgium",
+      "competition": "UEFA Nations League",
+      "home_team": "Turkey",
+      "away_team": "Belgium",
+      "home_logo": "https://flagcdn.com/w80/tr.png",
+      "away_logo": "https://flagcdn.com/w80/be.png",
+      "kickoff_str": "12 Nov 17:00 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Turkey grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Turkey Win",
+          "marginal_probability": 0.317,
+          "individual_odds": 3.15
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.221,
+      "naive_independent_prob": 0.223,
+      "correlation_boost_pct": -0.9,
+      "true_fair_odds": 4.53,
+      "stake_offered_odds": 4.62,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 23.1,
+      "net_profit": 18.1
+    },
+    {
+      "match_id": "21f1d732a768ec97ab405050ec9be408",
+      "match_name": "Albania vs Finland",
+      "competition": "UEFA Nations League",
+      "home_team": "Albania",
+      "away_team": "Finland",
+      "home_logo": "https://flagcdn.com/w80/al.png",
+      "away_logo": "https://flagcdn.com/w80/fi.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Albania dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Albania Win",
+          "marginal_probability": 0.3,
+          "individual_odds": 3.33
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.234,
+      "naive_independent_prob": 0.232,
+      "correlation_boost_pct": 0.8,
+      "true_fair_odds": 4.28,
+      "stake_offered_odds": 4.41,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.05,
+      "net_profit": 17.05
+    },
+    {
+      "match_id": "21f1d732a768ec97ab405050ec9be408",
+      "match_name": "Albania vs Finland",
+      "competition": "UEFA Nations League",
+      "home_team": "Albania",
+      "away_team": "Finland",
+      "home_logo": "https://flagcdn.com/w80/al.png",
+      "away_logo": "https://flagcdn.com/w80/fi.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.567,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.434,
+      "naive_independent_prob": 0.294,
+      "correlation_boost_pct": 47.5,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "21f1d732a768ec97ab405050ec9be408",
+      "match_name": "Albania vs Finland",
+      "competition": "UEFA Nations League",
+      "home_team": "Albania",
+      "away_team": "Finland",
+      "home_logo": "https://flagcdn.com/w80/al.png",
+      "away_logo": "https://flagcdn.com/w80/fi.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Albania grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Albania Win",
+          "marginal_probability": 0.3,
+          "individual_odds": 3.33
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.21,
+      "naive_independent_prob": 0.211,
+      "correlation_boost_pct": -0.2,
+      "true_fair_odds": 4.75,
+      "stake_offered_odds": 4.84,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 24.2,
+      "net_profit": 19.2
+    },
+    {
+      "match_id": "3caa30ea2ac5a1be30724132ba10d82b",
+      "match_name": "San Marino vs Belarus",
+      "competition": "UEFA Nations League",
+      "home_team": "San Marino",
+      "away_team": "Belarus",
+      "home_logo": "https://flagcdn.com/w80/sm.png",
+      "away_logo": "https://flagcdn.com/w80/by.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "San Marino dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "San Marino Win",
+          "marginal_probability": 0.341,
+          "individual_odds": 2.93
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.269,
+      "naive_independent_prob": 0.264,
+      "correlation_boost_pct": 1.9,
+      "true_fair_odds": 3.72,
+      "stake_offered_odds": 3.83,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 19.15,
+      "net_profit": 14.15
+    },
+    {
+      "match_id": "3caa30ea2ac5a1be30724132ba10d82b",
+      "match_name": "San Marino vs Belarus",
+      "competition": "UEFA Nations League",
+      "home_team": "San Marino",
+      "away_team": "Belarus",
+      "home_logo": "https://flagcdn.com/w80/sm.png",
+      "away_logo": "https://flagcdn.com/w80/by.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.571,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.437,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.5,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "3caa30ea2ac5a1be30724132ba10d82b",
+      "match_name": "San Marino vs Belarus",
+      "competition": "UEFA Nations League",
+      "home_team": "San Marino",
+      "away_team": "Belarus",
+      "home_logo": "https://flagcdn.com/w80/sm.png",
+      "away_logo": "https://flagcdn.com/w80/by.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "San Marino grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "San Marino Win",
+          "marginal_probability": 0.341,
+          "individual_odds": 2.93
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.235,
+      "naive_independent_prob": 0.24,
+      "correlation_boost_pct": -1.9,
+      "true_fair_odds": 4.25,
+      "stake_offered_odds": 4.33,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.65,
+      "net_profit": 16.65
+    },
+    {
+      "match_id": "8a1174de9079b530bd6612e3fde6e2fa",
+      "match_name": "England vs Croatia",
+      "competition": "UEFA Nations League",
+      "home_team": "England",
+      "away_team": "Croatia",
+      "home_logo": "https://flagcdn.com/w80/gb-eng.png",
+      "away_logo": "https://flagcdn.com/w80/hr.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "England dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "England Win",
+          "marginal_probability": 0.333,
+          "individual_odds": 3.0
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.262,
+      "naive_independent_prob": 0.258,
+      "correlation_boost_pct": 1.7,
+      "true_fair_odds": 3.82,
+      "stake_offered_odds": 3.93,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 19.65,
+      "net_profit": 14.65
+    },
+    {
+      "match_id": "8a1174de9079b530bd6612e3fde6e2fa",
+      "match_name": "England vs Croatia",
+      "competition": "UEFA Nations League",
+      "home_team": "England",
+      "away_team": "Croatia",
+      "home_logo": "https://flagcdn.com/w80/gb-eng.png",
+      "away_logo": "https://flagcdn.com/w80/hr.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.571,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.437,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "8a1174de9079b530bd6612e3fde6e2fa",
+      "match_name": "England vs Croatia",
+      "competition": "UEFA Nations League",
+      "home_team": "England",
+      "away_team": "Croatia",
+      "home_logo": "https://flagcdn.com/w80/gb-eng.png",
+      "away_logo": "https://flagcdn.com/w80/hr.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "England grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "England Win",
+          "marginal_probability": 0.333,
+          "individual_odds": 3.0
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.23,
+      "naive_independent_prob": 0.234,
+      "correlation_boost_pct": -1.6,
+      "true_fair_odds": 4.34,
+      "stake_offered_odds": 4.43,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.15,
+      "net_profit": 17.15
+    },
+    {
+      "match_id": "87441c4ff41ea3d37812826345450408",
+      "match_name": "Czech Republic vs Spain",
+      "competition": "UEFA Nations League",
+      "home_team": "Czech Republic",
+      "away_team": "Spain",
+      "home_logo": "https://flagcdn.com/w80/cz.png",
+      "away_logo": "https://flagcdn.com/w80/es.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Czech Republic dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Czech Republic Win",
+          "marginal_probability": 0.338,
+          "individual_odds": 2.95
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.267,
+      "naive_independent_prob": 0.262,
+      "correlation_boost_pct": 2.0,
+      "true_fair_odds": 3.75,
+      "stake_offered_odds": 3.86,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 19.3,
+      "net_profit": 14.3
+    },
+    {
+      "match_id": "87441c4ff41ea3d37812826345450408",
+      "match_name": "Czech Republic vs Spain",
+      "competition": "UEFA Nations League",
+      "home_team": "Czech Republic",
+      "away_team": "Spain",
+      "home_logo": "https://flagcdn.com/w80/cz.png",
+      "away_logo": "https://flagcdn.com/w80/es.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.571,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.437,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.5,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "87441c4ff41ea3d37812826345450408",
+      "match_name": "Czech Republic vs Spain",
+      "competition": "UEFA Nations League",
+      "home_team": "Czech Republic",
+      "away_team": "Spain",
+      "home_logo": "https://flagcdn.com/w80/cz.png",
+      "away_logo": "https://flagcdn.com/w80/es.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Czech Republic grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Czech Republic Win",
+          "marginal_probability": 0.338,
+          "individual_odds": 2.95
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.234,
+      "naive_independent_prob": 0.238,
+      "correlation_boost_pct": -1.7,
+      "true_fair_odds": 4.28,
+      "stake_offered_odds": 4.37,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.85,
+      "net_profit": 16.85
+    },
+    {
+      "match_id": "c096e9bfabbbb93326413433b7c63511",
+      "match_name": "Italy vs France",
+      "competition": "UEFA Nations League",
+      "home_team": "Italy",
+      "away_team": "France",
+      "home_logo": "https://flagcdn.com/w80/it.png",
+      "away_logo": "https://flagcdn.com/w80/fr.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Italy dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Italy Win",
+          "marginal_probability": 0.313,
+          "individual_odds": 3.19
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.245,
+      "naive_independent_prob": 0.242,
+      "correlation_boost_pct": 1.3,
+      "true_fair_odds": 4.08,
+      "stake_offered_odds": 4.2,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.0,
+      "net_profit": 16.0
+    },
+    {
+      "match_id": "c096e9bfabbbb93326413433b7c63511",
+      "match_name": "Italy vs France",
+      "competition": "UEFA Nations League",
+      "home_team": "Italy",
+      "away_team": "France",
+      "home_logo": "https://flagcdn.com/w80/it.png",
+      "away_logo": "https://flagcdn.com/w80/fr.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.569,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.435,
+      "naive_independent_prob": 0.295,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "c096e9bfabbbb93326413433b7c63511",
+      "match_name": "Italy vs France",
+      "competition": "UEFA Nations League",
+      "home_team": "Italy",
+      "away_team": "France",
+      "home_logo": "https://flagcdn.com/w80/it.png",
+      "away_logo": "https://flagcdn.com/w80/fr.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Italy grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Italy Win",
+          "marginal_probability": 0.313,
+          "individual_odds": 3.19
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.218,
+      "naive_independent_prob": 0.22,
+      "correlation_boost_pct": -0.8,
+      "true_fair_odds": 4.58,
+      "stake_offered_odds": 4.67,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 23.35,
+      "net_profit": 18.35
+    },
+    {
+      "match_id": "030f628eb3a7ad16c3bca6884c18c56e",
+      "match_name": "Montenegro vs Latvia",
+      "competition": "UEFA Nations League",
+      "home_team": "Montenegro",
+      "away_team": "Latvia",
+      "home_logo": "https://flagcdn.com/w80/me.png",
+      "away_logo": "https://flagcdn.com/w80/lv.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Montenegro dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Montenegro Win",
+          "marginal_probability": 0.332,
+          "individual_odds": 3.01
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.261,
+      "naive_independent_prob": 0.257,
+      "correlation_boost_pct": 1.7,
+      "true_fair_odds": 3.82,
+      "stake_offered_odds": 3.93,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 19.65,
+      "net_profit": 14.65
+    },
+    {
+      "match_id": "030f628eb3a7ad16c3bca6884c18c56e",
+      "match_name": "Montenegro vs Latvia",
+      "competition": "UEFA Nations League",
+      "home_team": "Montenegro",
+      "away_team": "Latvia",
+      "home_logo": "https://flagcdn.com/w80/me.png",
+      "away_logo": "https://flagcdn.com/w80/lv.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.571,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.437,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "030f628eb3a7ad16c3bca6884c18c56e",
+      "match_name": "Montenegro vs Latvia",
+      "competition": "UEFA Nations League",
+      "home_team": "Montenegro",
+      "away_team": "Latvia",
+      "home_logo": "https://flagcdn.com/w80/me.png",
+      "away_logo": "https://flagcdn.com/w80/lv.png",
+      "kickoff_str": "12 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Montenegro grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Montenegro Win",
+          "marginal_probability": 0.332,
+          "individual_odds": 3.01
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.23,
+      "naive_independent_prob": 0.233,
+      "correlation_boost_pct": -1.5,
+      "true_fair_odds": 4.35,
+      "stake_offered_odds": 4.44,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.2,
+      "net_profit": 17.2
+    },
+    {
+      "match_id": "cc1ca0aea8a9aa6ad2e1537834fe0d04",
+      "match_name": "Moldova vs Kazakhstan",
+      "competition": "UEFA Nations League",
+      "home_team": "Moldova",
+      "away_team": "Kazakhstan",
+      "home_logo": "https://flagcdn.com/w80/md.png",
+      "away_logo": "https://flagcdn.com/w80/kz.png",
+      "kickoff_str": "13 Nov 17:00 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Moldova dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Moldova Win",
+          "marginal_probability": 0.3,
+          "individual_odds": 3.33
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.234,
+      "naive_independent_prob": 0.232,
+      "correlation_boost_pct": 0.8,
+      "true_fair_odds": 4.28,
+      "stake_offered_odds": 4.41,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.05,
+      "net_profit": 17.05
+    },
+    {
+      "match_id": "cc1ca0aea8a9aa6ad2e1537834fe0d04",
+      "match_name": "Moldova vs Kazakhstan",
+      "competition": "UEFA Nations League",
+      "home_team": "Moldova",
+      "away_team": "Kazakhstan",
+      "home_logo": "https://flagcdn.com/w80/md.png",
+      "away_logo": "https://flagcdn.com/w80/kz.png",
+      "kickoff_str": "13 Nov 17:00 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.567,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.434,
+      "naive_independent_prob": 0.294,
+      "correlation_boost_pct": 47.5,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "cc1ca0aea8a9aa6ad2e1537834fe0d04",
+      "match_name": "Moldova vs Kazakhstan",
+      "competition": "UEFA Nations League",
+      "home_team": "Moldova",
+      "away_team": "Kazakhstan",
+      "home_logo": "https://flagcdn.com/w80/md.png",
+      "away_logo": "https://flagcdn.com/w80/kz.png",
+      "kickoff_str": "13 Nov 17:00 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Moldova grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Moldova Win",
+          "marginal_probability": 0.3,
+          "individual_odds": 3.33
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.21,
+      "naive_independent_prob": 0.211,
+      "correlation_boost_pct": -0.2,
+      "true_fair_odds": 4.75,
+      "stake_offered_odds": 4.84,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 24.2,
+      "net_profit": 19.2
+    },
+    {
+      "match_id": "6eecb0b534f8cda6254b8a0884289e16",
+      "match_name": "Andorra vs Gibraltar",
+      "competition": "UEFA Nations League",
+      "home_team": "Andorra",
+      "away_team": "Gibraltar",
+      "home_logo": "https://flagcdn.com/w80/ad.png",
+      "away_logo": "https://flagcdn.com/w80/gi.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Andorra dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Andorra Win",
+          "marginal_probability": 0.306,
+          "individual_odds": 3.27
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.239,
+      "naive_independent_prob": 0.237,
+      "correlation_boost_pct": 1.0,
+      "true_fair_odds": 4.19,
+      "stake_offered_odds": 4.32,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.6,
+      "net_profit": 16.6
+    },
+    {
+      "match_id": "6eecb0b534f8cda6254b8a0884289e16",
+      "match_name": "Andorra vs Gibraltar",
+      "competition": "UEFA Nations League",
+      "home_team": "Andorra",
+      "away_team": "Gibraltar",
+      "home_logo": "https://flagcdn.com/w80/ad.png",
+      "away_logo": "https://flagcdn.com/w80/gi.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.568,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.435,
+      "naive_independent_prob": 0.295,
+      "correlation_boost_pct": 47.5,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "6eecb0b534f8cda6254b8a0884289e16",
+      "match_name": "Andorra vs Gibraltar",
+      "competition": "UEFA Nations League",
+      "home_team": "Andorra",
+      "away_team": "Gibraltar",
+      "home_logo": "https://flagcdn.com/w80/ad.png",
+      "away_logo": "https://flagcdn.com/w80/gi.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Andorra grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Andorra Win",
+          "marginal_probability": 0.306,
+          "individual_odds": 3.27
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.214,
+      "naive_independent_prob": 0.215,
+      "correlation_boost_pct": -0.5,
+      "true_fair_odds": 4.67,
+      "stake_offered_odds": 4.76,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 23.8,
+      "net_profit": 18.8
+    },
+    {
+      "match_id": "9529ee7ca79126460eb063f53187f321",
+      "match_name": "Liechtenstein vs Azerbaijan",
+      "competition": "UEFA Nations League",
+      "home_team": "Liechtenstein",
+      "away_team": "Azerbaijan",
+      "home_logo": "https://flagcdn.com/w80/li.png",
+      "away_logo": "https://flagcdn.com/w80/az.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Liechtenstein dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Liechtenstein Win",
+          "marginal_probability": 0.33,
+          "individual_odds": 3.03
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.26,
+      "naive_independent_prob": 0.255,
+      "correlation_boost_pct": 1.7,
+      "true_fair_odds": 3.85,
+      "stake_offered_odds": 3.97,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 19.85,
+      "net_profit": 14.85
+    },
+    {
+      "match_id": "9529ee7ca79126460eb063f53187f321",
+      "match_name": "Liechtenstein vs Azerbaijan",
+      "competition": "UEFA Nations League",
+      "home_team": "Liechtenstein",
+      "away_team": "Azerbaijan",
+      "home_logo": "https://flagcdn.com/w80/li.png",
+      "away_logo": "https://flagcdn.com/w80/az.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.57,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.437,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.6,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "9529ee7ca79126460eb063f53187f321",
+      "match_name": "Liechtenstein vs Azerbaijan",
+      "competition": "UEFA Nations League",
+      "home_team": "Liechtenstein",
+      "away_team": "Azerbaijan",
+      "home_logo": "https://flagcdn.com/w80/li.png",
+      "away_logo": "https://flagcdn.com/w80/az.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Liechtenstein grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Liechtenstein Win",
+          "marginal_probability": 0.33,
+          "individual_odds": 3.03
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.229,
+      "naive_independent_prob": 0.232,
+      "correlation_boost_pct": -1.4,
+      "true_fair_odds": 4.37,
+      "stake_offered_odds": 4.46,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.3,
+      "net_profit": 17.3
+    },
+    {
+      "match_id": "b53069411f63a0d3aed21fa84d225faf",
+      "match_name": "Bulgaria vs Iceland",
+      "competition": "UEFA Nations League",
+      "home_team": "Bulgaria",
+      "away_team": "Iceland",
+      "home_logo": "https://flagcdn.com/w80/bg.png",
+      "away_logo": "https://flagcdn.com/w80/is.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Bulgaria dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Bulgaria Win",
+          "marginal_probability": 0.311,
+          "individual_odds": 3.21
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.244,
+      "naive_independent_prob": 0.24,
+      "correlation_boost_pct": 1.3,
+      "true_fair_odds": 4.11,
+      "stake_offered_odds": 4.23,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.15,
+      "net_profit": 16.15
+    },
+    {
+      "match_id": "b53069411f63a0d3aed21fa84d225faf",
+      "match_name": "Bulgaria vs Iceland",
+      "competition": "UEFA Nations League",
+      "home_team": "Bulgaria",
+      "away_team": "Iceland",
+      "home_logo": "https://flagcdn.com/w80/bg.png",
+      "away_logo": "https://flagcdn.com/w80/is.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.569,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.435,
+      "naive_independent_prob": 0.295,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "b53069411f63a0d3aed21fa84d225faf",
+      "match_name": "Bulgaria vs Iceland",
+      "competition": "UEFA Nations League",
+      "home_team": "Bulgaria",
+      "away_team": "Iceland",
+      "home_logo": "https://flagcdn.com/w80/bg.png",
+      "away_logo": "https://flagcdn.com/w80/is.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Bulgaria grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Bulgaria Win",
+          "marginal_probability": 0.311,
+          "individual_odds": 3.21
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.217,
+      "naive_independent_prob": 0.219,
+      "correlation_boost_pct": -0.6,
+      "true_fair_odds": 4.6,
+      "stake_offered_odds": 4.69,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 23.45,
+      "net_profit": 18.45
+    },
+    {
+      "match_id": "eef1c96c424e42b66f49b7ec3bef1a5c",
+      "match_name": "Luxembourg vs Estonia",
+      "competition": "UEFA Nations League",
+      "home_team": "Luxembourg",
+      "away_team": "Estonia",
+      "home_logo": "https://flagcdn.com/w80/lu.png",
+      "away_logo": "https://flagcdn.com/w80/ee.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Luxembourg dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Luxembourg Win",
+          "marginal_probability": 0.304,
+          "individual_odds": 3.29
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.237,
+      "naive_independent_prob": 0.235,
+      "correlation_boost_pct": 0.8,
+      "true_fair_odds": 4.22,
+      "stake_offered_odds": 4.35,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.75,
+      "net_profit": 16.75
+    },
+    {
+      "match_id": "eef1c96c424e42b66f49b7ec3bef1a5c",
+      "match_name": "Luxembourg vs Estonia",
+      "competition": "UEFA Nations League",
+      "home_team": "Luxembourg",
+      "away_team": "Estonia",
+      "home_logo": "https://flagcdn.com/w80/lu.png",
+      "away_logo": "https://flagcdn.com/w80/ee.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.568,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.434,
+      "naive_independent_prob": 0.295,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "eef1c96c424e42b66f49b7ec3bef1a5c",
+      "match_name": "Luxembourg vs Estonia",
+      "competition": "UEFA Nations League",
+      "home_team": "Luxembourg",
+      "away_team": "Estonia",
+      "home_logo": "https://flagcdn.com/w80/lu.png",
+      "away_logo": "https://flagcdn.com/w80/ee.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Luxembourg grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Luxembourg Win",
+          "marginal_probability": 0.304,
+          "individual_odds": 3.29
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.213,
+      "naive_independent_prob": 0.214,
+      "correlation_boost_pct": -0.5,
+      "true_fair_odds": 4.7,
+      "stake_offered_odds": 4.79,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 23.95,
+      "net_profit": 18.95
+    },
+    {
+      "match_id": "a2b1b42a452df659cc5d0d242d8f98be",
+      "match_name": "Slovakia vs Faroe Islands",
+      "competition": "UEFA Nations League",
+      "home_team": "Slovakia",
+      "away_team": "Faroe Islands",
+      "home_logo": "https://flagcdn.com/w80/sk.png",
+      "away_logo": "https://flagcdn.com/w80/fo.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Slovakia dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Slovakia Win",
+          "marginal_probability": 0.325,
+          "individual_odds": 3.07
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.256,
+      "naive_independent_prob": 0.252,
+      "correlation_boost_pct": 1.6,
+      "true_fair_odds": 3.91,
+      "stake_offered_odds": 4.03,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 20.15,
+      "net_profit": 15.15
+    },
+    {
+      "match_id": "a2b1b42a452df659cc5d0d242d8f98be",
+      "match_name": "Slovakia vs Faroe Islands",
+      "competition": "UEFA Nations League",
+      "home_team": "Slovakia",
+      "away_team": "Faroe Islands",
+      "home_logo": "https://flagcdn.com/w80/sk.png",
+      "away_logo": "https://flagcdn.com/w80/fo.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.57,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.436,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.5,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "a2b1b42a452df659cc5d0d242d8f98be",
+      "match_name": "Slovakia vs Faroe Islands",
+      "competition": "UEFA Nations League",
+      "home_team": "Slovakia",
+      "away_team": "Faroe Islands",
+      "home_logo": "https://flagcdn.com/w80/sk.png",
+      "away_logo": "https://flagcdn.com/w80/fo.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Slovakia grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Slovakia Win",
+          "marginal_probability": 0.325,
+          "individual_odds": 3.07
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.226,
+      "naive_independent_prob": 0.228,
+      "correlation_boost_pct": -1.2,
+      "true_fair_odds": 4.43,
+      "stake_offered_odds": 4.52,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.6,
+      "net_profit": 17.6
+    },
+    {
+      "match_id": "d0ee3d2f44cf592797f6ecae8de62edd",
+      "match_name": "Serbia vs Germany",
+      "competition": "UEFA Nations League",
+      "home_team": "Serbia",
+      "away_team": "Germany",
+      "home_logo": "https://flagcdn.com/w80/rs.png",
+      "away_logo": "https://flagcdn.com/w80/de.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Serbia dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Serbia Win",
+          "marginal_probability": 0.334,
+          "individual_odds": 2.99
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.263,
+      "naive_independent_prob": 0.259,
+      "correlation_boost_pct": 1.7,
+      "true_fair_odds": 3.8,
+      "stake_offered_odds": 3.91,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 19.55,
+      "net_profit": 14.55
+    },
+    {
+      "match_id": "d0ee3d2f44cf592797f6ecae8de62edd",
+      "match_name": "Serbia vs Germany",
+      "competition": "UEFA Nations League",
+      "home_team": "Serbia",
+      "away_team": "Germany",
+      "home_logo": "https://flagcdn.com/w80/rs.png",
+      "away_logo": "https://flagcdn.com/w80/de.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.571,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.437,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "d0ee3d2f44cf592797f6ecae8de62edd",
+      "match_name": "Serbia vs Germany",
+      "competition": "UEFA Nations League",
+      "home_team": "Serbia",
+      "away_team": "Germany",
+      "home_logo": "https://flagcdn.com/w80/rs.png",
+      "away_logo": "https://flagcdn.com/w80/de.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Serbia grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Serbia Win",
+          "marginal_probability": 0.334,
+          "individual_odds": 2.99
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.231,
+      "naive_independent_prob": 0.235,
+      "correlation_boost_pct": -1.6,
+      "true_fair_odds": 4.33,
+      "stake_offered_odds": 4.42,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.1,
+      "net_profit": 17.1
+    },
+    {
+      "match_id": "0010d3b2b15a2b8cb04053b0b1407cc5",
+      "match_name": "Netherlands vs Greece",
+      "competition": "UEFA Nations League",
+      "home_team": "Netherlands",
+      "away_team": "Greece",
+      "home_logo": "https://flagcdn.com/w80/nl.png",
+      "away_logo": "https://flagcdn.com/w80/gr.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Netherlands dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Netherlands Win",
+          "marginal_probability": 0.322,
+          "individual_odds": 3.11
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.252,
+      "naive_independent_prob": 0.249,
+      "correlation_boost_pct": 1.3,
+      "true_fair_odds": 3.96,
+      "stake_offered_odds": 4.08,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 20.4,
+      "net_profit": 15.4
+    },
+    {
+      "match_id": "0010d3b2b15a2b8cb04053b0b1407cc5",
+      "match_name": "Netherlands vs Greece",
+      "competition": "UEFA Nations League",
+      "home_team": "Netherlands",
+      "away_team": "Greece",
+      "home_logo": "https://flagcdn.com/w80/nl.png",
+      "away_logo": "https://flagcdn.com/w80/gr.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.57,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.436,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "0010d3b2b15a2b8cb04053b0b1407cc5",
+      "match_name": "Netherlands vs Greece",
+      "competition": "UEFA Nations League",
+      "home_team": "Netherlands",
+      "away_team": "Greece",
+      "home_logo": "https://flagcdn.com/w80/nl.png",
+      "away_logo": "https://flagcdn.com/w80/gr.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Netherlands grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Netherlands Win",
+          "marginal_probability": 0.322,
+          "individual_odds": 3.11
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.224,
+      "naive_independent_prob": 0.226,
+      "correlation_boost_pct": -1.2,
+      "true_fair_odds": 4.47,
+      "stake_offered_odds": 4.56,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.8,
+      "net_profit": 17.8
+    },
+    {
+      "match_id": "199940cd0d3a9c7ad93be4063cb2df93",
+      "match_name": "Scotland vs North Macedonia",
+      "competition": "UEFA Nations League",
+      "home_team": "Scotland",
+      "away_team": "North Macedonia",
+      "home_logo": "https://flagcdn.com/w80/gb-sct.png",
+      "away_logo": "https://flagcdn.com/w80/mk.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Scotland dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Scotland Win",
+          "marginal_probability": 0.337,
+          "individual_odds": 2.97
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.265,
+      "naive_independent_prob": 0.261,
+      "correlation_boost_pct": 1.7,
+      "true_fair_odds": 3.77,
+      "stake_offered_odds": 3.88,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 19.4,
+      "net_profit": 14.4
+    },
+    {
+      "match_id": "199940cd0d3a9c7ad93be4063cb2df93",
+      "match_name": "Scotland vs North Macedonia",
+      "competition": "UEFA Nations League",
+      "home_team": "Scotland",
+      "away_team": "North Macedonia",
+      "home_logo": "https://flagcdn.com/w80/gb-sct.png",
+      "away_logo": "https://flagcdn.com/w80/mk.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.571,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.437,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "199940cd0d3a9c7ad93be4063cb2df93",
+      "match_name": "Scotland vs North Macedonia",
+      "competition": "UEFA Nations League",
+      "home_team": "Scotland",
+      "away_team": "North Macedonia",
+      "home_logo": "https://flagcdn.com/w80/gb-sct.png",
+      "away_logo": "https://flagcdn.com/w80/mk.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Scotland grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Scotland Win",
+          "marginal_probability": 0.337,
+          "individual_odds": 2.97
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.233,
+      "naive_independent_prob": 0.237,
+      "correlation_boost_pct": -1.8,
+      "true_fair_odds": 4.3,
+      "stake_offered_odds": 4.39,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.95,
+      "net_profit": 16.95
+    },
+    {
+      "match_id": "af4d45ae5e37dc2a0e146d2a9e9a926d",
+      "match_name": "Slovenia vs Switzerland",
+      "competition": "UEFA Nations League",
+      "home_team": "Slovenia",
+      "away_team": "Switzerland",
+      "home_logo": "https://flagcdn.com/w80/si.png",
+      "away_logo": "https://flagcdn.com/w80/ch.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Slovenia dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Slovenia Win",
+          "marginal_probability": 0.311,
+          "individual_odds": 3.22
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.243,
+      "naive_independent_prob": 0.24,
+      "correlation_boost_pct": 1.0,
+      "true_fair_odds": 4.12,
+      "stake_offered_odds": 4.24,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.2,
+      "net_profit": 16.2
+    },
+    {
+      "match_id": "af4d45ae5e37dc2a0e146d2a9e9a926d",
+      "match_name": "Slovenia vs Switzerland",
+      "competition": "UEFA Nations League",
+      "home_team": "Slovenia",
+      "away_team": "Switzerland",
+      "home_logo": "https://flagcdn.com/w80/si.png",
+      "away_logo": "https://flagcdn.com/w80/ch.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.569,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.435,
+      "naive_independent_prob": 0.295,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "af4d45ae5e37dc2a0e146d2a9e9a926d",
+      "match_name": "Slovenia vs Switzerland",
+      "competition": "UEFA Nations League",
+      "home_team": "Slovenia",
+      "away_team": "Switzerland",
+      "home_logo": "https://flagcdn.com/w80/si.png",
+      "away_logo": "https://flagcdn.com/w80/ch.png",
+      "kickoff_str": "13 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Slovenia grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Slovenia Win",
+          "marginal_probability": 0.311,
+          "individual_odds": 3.22
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.217,
+      "naive_independent_prob": 0.219,
+      "correlation_boost_pct": -0.8,
+      "true_fair_odds": 4.61,
+      "stake_offered_odds": 4.7,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 23.5,
+      "net_profit": 18.5
+    },
+    {
+      "match_id": "244d7d2e6f3f8529af59270040b7ec7a",
+      "match_name": "Kosovo vs Israel",
+      "competition": "UEFA Nations League",
+      "home_team": "Kosovo",
+      "away_team": "Israel",
+      "home_logo": "https://flagcdn.com/w80/xk.png",
+      "away_logo": "https://flagcdn.com/w80/il.png",
+      "kickoff_str": "14 Nov 14:00 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Kosovo dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Kosovo Win",
+          "marginal_probability": 0.314,
+          "individual_odds": 3.18
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.246,
+      "naive_independent_prob": 0.243,
+      "correlation_boost_pct": 1.3,
+      "true_fair_odds": 4.07,
+      "stake_offered_odds": 4.19,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 20.95,
+      "net_profit": 15.95
+    },
+    {
+      "match_id": "244d7d2e6f3f8529af59270040b7ec7a",
+      "match_name": "Kosovo vs Israel",
+      "competition": "UEFA Nations League",
+      "home_team": "Kosovo",
+      "away_team": "Israel",
+      "home_logo": "https://flagcdn.com/w80/xk.png",
+      "away_logo": "https://flagcdn.com/w80/il.png",
+      "kickoff_str": "14 Nov 14:00 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.569,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.436,
+      "naive_independent_prob": 0.295,
+      "correlation_boost_pct": 47.5,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "244d7d2e6f3f8529af59270040b7ec7a",
+      "match_name": "Kosovo vs Israel",
+      "competition": "UEFA Nations League",
+      "home_team": "Kosovo",
+      "away_team": "Israel",
+      "home_logo": "https://flagcdn.com/w80/xk.png",
+      "away_logo": "https://flagcdn.com/w80/il.png",
+      "kickoff_str": "14 Nov 14:00 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Kosovo grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Kosovo Win",
+          "marginal_probability": 0.314,
+          "individual_odds": 3.18
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.219,
+      "naive_independent_prob": 0.221,
+      "correlation_boost_pct": -0.8,
+      "true_fair_odds": 4.57,
+      "stake_offered_odds": 4.66,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 23.3,
+      "net_profit": 18.3
+    },
+    {
+      "match_id": "d548fa34308b91eb158670eb18e1deae",
+      "match_name": "Georgia vs Hungary",
+      "competition": "UEFA Nations League",
+      "home_team": "Georgia",
+      "away_team": "Hungary",
+      "home_logo": "https://flagcdn.com/w80/ge.png",
+      "away_logo": "https://flagcdn.com/w80/hu.png",
+      "kickoff_str": "14 Nov 17:00 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Georgia dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Georgia Win",
+          "marginal_probability": 0.302,
+          "individual_odds": 3.31
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.773,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.236,
+      "naive_independent_prob": 0.233,
+      "correlation_boost_pct": 1.0,
+      "true_fair_odds": 4.24,
+      "stake_offered_odds": 4.37,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.85,
+      "net_profit": 16.85
+    },
+    {
+      "match_id": "d548fa34308b91eb158670eb18e1deae",
+      "match_name": "Georgia vs Hungary",
+      "competition": "UEFA Nations League",
+      "home_team": "Georgia",
+      "away_team": "Hungary",
+      "home_logo": "https://flagcdn.com/w80/ge.png",
+      "away_logo": "https://flagcdn.com/w80/hu.png",
+      "kickoff_str": "14 Nov 17:00 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.567,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.434,
+      "naive_independent_prob": 0.294,
+      "correlation_boost_pct": 47.6,
+      "true_fair_odds": 2.3,
+      "stake_offered_odds": 2.39,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.95,
+      "net_profit": 6.95
+    },
+    {
+      "match_id": "d548fa34308b91eb158670eb18e1deae",
+      "match_name": "Georgia vs Hungary",
+      "competition": "UEFA Nations League",
+      "home_team": "Georgia",
+      "away_team": "Hungary",
+      "home_logo": "https://flagcdn.com/w80/ge.png",
+      "away_logo": "https://flagcdn.com/w80/hu.png",
+      "kickoff_str": "14 Nov 17:00 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Georgia grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Georgia Win",
+          "marginal_probability": 0.302,
+          "individual_odds": 3.31
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.212,
+      "naive_independent_prob": 0.212,
+      "correlation_boost_pct": -0.2,
+      "true_fair_odds": 4.72,
+      "stake_offered_odds": 4.81,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 24.05,
+      "net_profit": 19.05
+    },
+    {
+      "match_id": "8d67c473dbea0c85b30eefee4bca53d9",
+      "match_name": "Norway vs Wales",
+      "competition": "UEFA Nations League",
+      "home_team": "Norway",
+      "away_team": "Wales",
+      "home_logo": "https://flagcdn.com/w80/no.png",
+      "away_logo": "https://flagcdn.com/w80/gb-wls.png",
+      "kickoff_str": "14 Nov 17:00 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Norway dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Norway Win",
+          "marginal_probability": 0.338,
+          "individual_odds": 2.96
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.267,
+      "naive_independent_prob": 0.262,
+      "correlation_boost_pct": 1.9,
+      "true_fair_odds": 3.75,
+      "stake_offered_odds": 3.86,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 19.3,
+      "net_profit": 14.3
+    },
+    {
+      "match_id": "8d67c473dbea0c85b30eefee4bca53d9",
+      "match_name": "Norway vs Wales",
+      "competition": "UEFA Nations League",
+      "home_team": "Norway",
+      "away_team": "Wales",
+      "home_logo": "https://flagcdn.com/w80/no.png",
+      "away_logo": "https://flagcdn.com/w80/gb-wls.png",
+      "kickoff_str": "14 Nov 17:00 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.571,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.437,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.5,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "8d67c473dbea0c85b30eefee4bca53d9",
+      "match_name": "Norway vs Wales",
+      "competition": "UEFA Nations League",
+      "home_team": "Norway",
+      "away_team": "Wales",
+      "home_logo": "https://flagcdn.com/w80/no.png",
+      "away_logo": "https://flagcdn.com/w80/gb-wls.png",
+      "kickoff_str": "14 Nov 17:00 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Norway grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Norway Win",
+          "marginal_probability": 0.338,
+          "individual_odds": 2.96
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.234,
+      "naive_independent_prob": 0.238,
+      "correlation_boost_pct": -1.7,
+      "true_fair_odds": 4.28,
+      "stake_offered_odds": 4.37,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 21.85,
+      "net_profit": 16.85
+    },
+    {
+      "match_id": "30b32c194d8c2ae2bc5a209be5df44a9",
+      "match_name": "Austria vs Iceland",
+      "competition": "UEFA Nations League",
+      "home_team": "Austria",
+      "away_team": "Iceland",
+      "home_logo": "https://flagcdn.com/w80/at.png",
+      "away_logo": "https://flagcdn.com/w80/is.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Austria dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Austria Win",
+          "marginal_probability": 0.319,
+          "individual_odds": 3.13
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.25,
+      "naive_independent_prob": 0.247,
+      "correlation_boost_pct": 1.3,
+      "true_fair_odds": 4.0,
+      "stake_offered_odds": 4.12,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 20.6,
+      "net_profit": 15.6
+    },
+    {
+      "match_id": "30b32c194d8c2ae2bc5a209be5df44a9",
+      "match_name": "Austria vs Iceland",
+      "competition": "UEFA Nations League",
+      "home_team": "Austria",
+      "away_team": "Iceland",
+      "home_logo": "https://flagcdn.com/w80/at.png",
+      "away_logo": "https://flagcdn.com/w80/is.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.57,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.436,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.3,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "30b32c194d8c2ae2bc5a209be5df44a9",
+      "match_name": "Austria vs Iceland",
+      "competition": "UEFA Nations League",
+      "home_team": "Austria",
+      "away_team": "Iceland",
+      "home_logo": "https://flagcdn.com/w80/at.png",
+      "away_logo": "https://flagcdn.com/w80/is.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Austria grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Austria Win",
+          "marginal_probability": 0.319,
+          "individual_odds": 3.13
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.222,
+      "naive_independent_prob": 0.224,
+      "correlation_boost_pct": -1.0,
+      "true_fair_odds": 4.5,
+      "stake_offered_odds": 4.59,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.95,
+      "net_profit": 17.95
+    },
+    {
+      "match_id": "c745f84500717bc671c4cd864624cca8",
+      "match_name": "Austria vs Republic of Ireland",
+      "competition": "UEFA Nations League",
+      "home_team": "Austria",
+      "away_team": "Republic of Ireland",
+      "home_logo": "https://flagcdn.com/w80/at.png",
+      "away_logo": "https://flagcdn.com/w80/ie.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Austria dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Austria Win",
+          "marginal_probability": 0.318,
+          "individual_odds": 3.14
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.25,
+      "naive_independent_prob": 0.246,
+      "correlation_boost_pct": 1.4,
+      "true_fair_odds": 4.01,
+      "stake_offered_odds": 4.13,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 20.65,
+      "net_profit": 15.65
+    },
+    {
+      "match_id": "c745f84500717bc671c4cd864624cca8",
+      "match_name": "Austria vs Republic of Ireland",
+      "competition": "UEFA Nations League",
+      "home_team": "Austria",
+      "away_team": "Republic of Ireland",
+      "home_logo": "https://flagcdn.com/w80/at.png",
+      "away_logo": "https://flagcdn.com/w80/ie.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.569,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.436,
+      "naive_independent_prob": 0.295,
+      "correlation_boost_pct": 47.6,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "c745f84500717bc671c4cd864624cca8",
+      "match_name": "Austria vs Republic of Ireland",
+      "competition": "UEFA Nations League",
+      "home_team": "Austria",
+      "away_team": "Republic of Ireland",
+      "home_logo": "https://flagcdn.com/w80/at.png",
+      "away_logo": "https://flagcdn.com/w80/ie.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Austria grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Austria Win",
+          "marginal_probability": 0.318,
+          "individual_odds": 3.14
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.222,
+      "naive_independent_prob": 0.224,
+      "correlation_boost_pct": -0.9,
+      "true_fair_odds": 4.51,
+      "stake_offered_odds": 4.6,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 23.0,
+      "net_profit": 18.0
+    },
+    {
+      "match_id": "2b646127cc6cb400abc663c5a458f1db",
+      "match_name": "Sweden vs Bosnia & Herzegovina",
+      "competition": "UEFA Nations League",
+      "home_team": "Sweden",
+      "away_team": "Bosnia & Herzegovina",
+      "home_logo": "https://flagcdn.com/w80/se.png",
+      "away_logo": "https://flagcdn.com/w80/ba.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Sweden dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Sweden Win",
+          "marginal_probability": 0.32,
+          "individual_odds": 3.12
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.251,
+      "naive_independent_prob": 0.248,
+      "correlation_boost_pct": 1.3,
+      "true_fair_odds": 3.98,
+      "stake_offered_odds": 4.1,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 20.5,
+      "net_profit": 15.5
+    },
+    {
+      "match_id": "2b646127cc6cb400abc663c5a458f1db",
+      "match_name": "Sweden vs Bosnia & Herzegovina",
+      "competition": "UEFA Nations League",
+      "home_team": "Sweden",
+      "away_team": "Bosnia & Herzegovina",
+      "home_logo": "https://flagcdn.com/w80/se.png",
+      "away_logo": "https://flagcdn.com/w80/ba.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.57,
+          "individual_odds": 1.76
+        }
+      ],
+      "exact_joint_probability": 0.436,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.4,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "2b646127cc6cb400abc663c5a458f1db",
+      "match_name": "Sweden vs Bosnia & Herzegovina",
+      "competition": "UEFA Nations League",
+      "home_team": "Sweden",
+      "away_team": "Bosnia & Herzegovina",
+      "home_logo": "https://flagcdn.com/w80/se.png",
+      "away_logo": "https://flagcdn.com/w80/ba.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Sweden grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Sweden Win",
+          "marginal_probability": 0.32,
+          "individual_odds": 3.12
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.223,
+      "naive_independent_prob": 0.225,
+      "correlation_boost_pct": -1.1,
+      "true_fair_odds": 4.49,
+      "stake_offered_odds": 4.58,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.9,
+      "net_profit": 17.9
+    },
+    {
+      "match_id": "159554f486f93d1d8d4213c570117a0e",
+      "match_name": "Portugal vs Denmark",
+      "competition": "UEFA Nations League",
+      "home_team": "Portugal",
+      "away_team": "Denmark",
+      "home_logo": "https://flagcdn.com/w80/pt.png",
+      "away_logo": "https://flagcdn.com/w80/dk.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "Dominant Victor SGP",
+      "narrative": "Portugal dominates and at least 2 total goals are scored.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Portugal Win",
+          "marginal_probability": 0.325,
+          "individual_odds": 3.08
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Over 1.5 Match Goals",
+          "marginal_probability": 0.774,
+          "individual_odds": 1.29
+        }
+      ],
+      "exact_joint_probability": 0.255,
+      "naive_independent_prob": 0.252,
+      "correlation_boost_pct": 1.5,
+      "true_fair_odds": 3.92,
+      "stake_offered_odds": 4.04,
+      "ev_edge": 0.03,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 20.2,
+      "net_profit": 15.2
+    },
+    {
+      "match_id": "159554f486f93d1d8d4213c570117a0e",
+      "match_name": "Portugal vs Denmark",
+      "competition": "UEFA Nations League",
+      "home_team": "Portugal",
+      "away_team": "Denmark",
+      "home_logo": "https://flagcdn.com/w80/pt.png",
+      "away_logo": "https://flagcdn.com/w80/dk.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "High-Octane Shootout SGP",
+      "narrative": "Both teams score and match produces 3 or more total goals.",
+      "legs": [
+        {
+          "market": "Total Goals",
+          "selection": "Over 2.5 Match Goals",
+          "marginal_probability": 0.519,
+          "individual_odds": 1.93
+        },
+        {
+          "market": "Both Teams To Score",
+          "selection": "BTTS - Yes",
+          "marginal_probability": 0.57,
+          "individual_odds": 1.75
+        }
+      ],
+      "exact_joint_probability": 0.436,
+      "naive_independent_prob": 0.296,
+      "correlation_boost_pct": 47.5,
+      "true_fair_odds": 2.29,
+      "stake_offered_odds": 2.38,
+      "ev_edge": 0.04,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 11.9,
+      "net_profit": 6.9
+    },
+    {
+      "match_id": "159554f486f93d1d8d4213c570117a0e",
+      "match_name": "Portugal vs Denmark",
+      "competition": "UEFA Nations League",
+      "home_team": "Portugal",
+      "away_team": "Denmark",
+      "home_logo": "https://flagcdn.com/w80/pt.png",
+      "away_logo": "https://flagcdn.com/w80/dk.png",
+      "kickoff_str": "14 Nov 19:45 UTC",
+      "combo_name": "Controlled Clean Sheet SGP",
+      "narrative": "Portugal grinds out a controlled victory with under 4 match goals.",
+      "legs": [
+        {
+          "market": "Match Winner",
+          "selection": "Portugal Win",
+          "marginal_probability": 0.325,
+          "individual_odds": 3.08
+        },
+        {
+          "market": "Total Goals",
+          "selection": "Under 3.5 Match Goals",
+          "marginal_probability": 0.703,
+          "individual_odds": 1.42
+        }
+      ],
+      "exact_joint_probability": 0.226,
+      "naive_independent_prob": 0.228,
+      "correlation_boost_pct": -1.3,
+      "true_fair_odds": 4.43,
+      "stake_offered_odds": 4.52,
+      "ev_edge": 0.02,
+      "suggested_stake_amount": 5.0,
+      "potential_payout": 22.6,
+      "net_profit": 17.6
+    }
+  ]
+}
